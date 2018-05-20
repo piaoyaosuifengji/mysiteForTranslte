@@ -1,0 +1,209 @@
+<!-- data:{'user':user,'pwd':pwd,'csrfmiddlewaretoken':'{{ csrf_token }}'}, {% load static %} -->
+
+
+<head>
+    <title>translate</title>
+    <script src="{% static '/js/jquery-3.3.1.js' %}"></script>
+</head>
+
+
+
+<script>
+
+    function getCookie(name) {
+        var cookieValue = null;
+        if (document.cookie && document.cookie != '') {
+            var cookies = document.cookie.split(';');
+            for (var i = 0; i < cookies.length; i++) {
+                var cookie = cookies[i].trim();
+                // Does this cookie string begin with the name we want?  
+                if (cookie.substring(0, name.length + 1) == (name + '=')) {
+                    cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+                    break;
+                }
+            }
+        }
+        return cookieValue;
+    }
+
+    function word_tranl_just() {
+
+
+        //   $(this).hide();
+        console.log("here is null");
+        userSelection = window.getSelection().toString();
+        var csrf_token_ = getCookie('csrftoken');
+
+        $.post("{% url 'articleTranlate:get_one_word' %}",
+            {
+                "word_translate": userSelection,
+                "csrfmiddlewaretoken": csrf_token_,
+            },
+            function (data, status) {
+                // alert("数据: \n" + data + "\n状态: " + status);
+                alert(data);
+            });
+
+    }
+
+    // function displayDate(id) {
+    //     document.getElementById(id).innerHTML = Date();
+    // }
+
+    function StandardPost(url, args) {
+        var myForm = document.createElement("form");
+        myForm.method = "post";
+        myForm.action = url;
+
+        for (var k in args) {
+            var myInput = document.createElement("input");
+            myInput.setAttribute("type", "hidden");
+            myInput.setAttribute("name", k);
+            myInput.setAttribute("value", args[k]);
+            myForm.appendChild(myInput);
+        }
+        document.body.appendChild(myForm);
+        myForm.submit();
+
+
+        //jieshou接受数据：
+        document.body.removeChild(myForm);
+    }
+    function sleep(numberMillis) {
+        var now = new Date();
+        var exitTime = now.getTime() + numberMillis;
+        while (true) {
+            now = new Date();
+            if (now.getTime() > exitTime)
+                return;
+        }
+    }
+    function myFunction(e) {
+        // var timeoutId = setTimeout("delay()", 1550);
+        // sleep(350);  //睡眠5秒
+        var xmlhttp;
+        if (window.XMLHttpRequest) {// code for IE7+, Firefox, Chrome, Opera, Safari
+            xmlhttp = new XMLHttpRequest();
+        }
+        else {// code for IE6, IE5
+            xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+        }
+        xmlhttp.open("GET", "{% url 'articleTranlate:ajax_list' %}", false);
+        xmlhttp.send();
+        // document.getElementById("myDiv").innerHTML = xmlhttp.responseText;
+        // alert("is null");
+        alert(xmlhttp.responseText);
+    }
+    function myFunction3(e) {
+        var xmlhttp;
+        if (window.XMLHttpRequest) {// code for IE7+, Firefox, Chrome, Opera, Safari
+            xmlhttp = new XMLHttpRequest();
+        }
+        else {// code for IE6, IE5
+            xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+        }
+        // csrf_token_ =document.getElementById("csrf_token").value
+        var csrf_token_ = getCookie('csrftoken');
+
+        var data = { 'user': 'user', 'pwd': 'pwd', };
+        // var data = "user=1&pwd=3"
+        xmlhttp.open("POST", "{% url 'articleTranlate:get_one_word' %}", true);
+        xmlhttp.setRequestHeader('X-CSRFToken', csrf_token_)
+        xmlhttp.send(data);
+
+
+
+
+        // debugger;
+
+        console.log(xmlhttp.responseText);
+
+        // var id = e.getAttribute("form");
+        // var f = document.getElementById(id);
+        // var i;
+        // var ee;
+        // if (f == null) {
+        //     alert("is null" + (id));
+
+        // } else {
+        //     for (i = 0; i < f.elements.length; i++) {
+        //         ee = f.elements[i];
+
+        //         if (ee.name == "english_text" || ee.name == "tranlate_text") {
+        //             alert(ee.name + ee.value);
+        //         } else {
+
+        //         }
+        //     }
+        // }
+
+        // alert(xmlhttp.responseText);
+    }
+
+        // function myFunction(e) {
+        //     var id = e.getAttribute("form");
+        //     var f = document.getElementById(id);
+        //     var i;
+        //     var ee;
+        //     if (f == null) {
+        //         alert("is null" + (id));
+
+        //     } else {
+        //         for (i = 0; i < f.elements.length; i++) {
+        //             ee = f.elements[i];
+
+        //             if (ee.name == "english_text" || ee.name == "tranlate_text") {
+        //                 alert(ee.name + ee.value);
+        //             } else {
+
+        //             }
+        //         }
+        //     }
+        // }
+        // function test() {
+        //     var form1 = document.getElementById("form1");
+        //     for (i = 0; i < form1.elements.length; i++) {
+        //         var e = document.form1.elements[i];
+        //         alert(e.name + "\t" + e.value);
+        //     }
+        // }
+</script>
+
+
+<link /> {% if articleTranlate_list_name %}
+
+<body>
+    <h2>这是一个标题</h2>
+    <p>这是一个段落</p>
+    <p id="test">这是另外一个段落</p>
+    <button>点我</button>
+
+
+    <!-- <input type="hidden" id="csrf_token"   >  {% csrf_token %} -->
+    <input type="hidden" id="csrf_token" value="{{csrf_token}}">
+    <!-- {% if ArticleAddress_str_name %}
+        <input type="text" name="FirstName" value={{articleTranlate_list_name}}><br>
+        {% endif %} -->
+    <ul>
+        {% csrf_token %} {% for translte_str in articleTranlate_list_name %}
+        <li>
+            <div style="color:#0000FF">
+                <p>句子：{{forloop.counter0}} 段落：{{ translte_str.paragraph_id }}</p>
+            </div>
+            <tr>
+                <form action="{% url 'articleTranlate:updataArticle' %}" method="post" id={{forloop.counter0}}>
+
+                    <textarea name="english_text" rows="10" ondblclick="word_tranl_just()" cols="70">{{ translte_str.english_text }}</textarea>{% csrf_token %}
+                    <textarea name="tranlate_text" rows="10" cols="70">{{ translte_str.tranlate_text }}</textarea> {% csrf_token %}
+                    <input type="submit" value="保存" form={{forloop.counter0}}>{% csrf_token %}
+                </form>
+            </tr>
+        </li>
+        {% endfor %}
+    </ul>
+    {% else %}
+    <p>No articleTranlate are available.</p>
+    {% endif %}
+
+</body>
+<!-- ondblclick="myFunction3()" -->

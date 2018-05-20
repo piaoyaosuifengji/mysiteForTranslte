@@ -1,0 +1,57 @@
+{% load static %}
+<link /> {% if articleTranlate_list_name %}
+
+
+<script>
+    function displayDate(id) {
+        document.getElementById(id).innerHTML = Date();
+    }
+    function myFunction(e) {
+        var id = e.getAttribute("form");
+        // var name = e.getAttribute("data-name");
+        var f = document.getElementById(id);
+        var i;
+        var ee;
+        // alert("f.elements.length: " + document.getElementById(id).elements.length);
+        // alert("Id: " + (id) + "e:");
+        if (f == null) {
+            alert("is null" + (id));
+
+        } else {
+            // alert("Id: " + (id) + " f.elements.length：" + f.elements.length);
+            // alert("typeof：" + typeof f);
+            for (i = 0; i < f.elements.length; i++) {
+                ee = f.elements[i];
+
+                if (ee.name == "english_text" || ee.name == "tranlate_text") {
+                    // alert(ee.name + ee.xalue);
+                } else {
+
+                }
+            }
+        }
+    }
+    function test() {
+        var form1 = document.getElementById("form1");
+        for (i = 0; i < form1.elements.length; i++) {
+            var e = document.form1.elements[i];
+            alert(e.name + "\t" + e.value);
+        }
+    }
+</script>
+<ul>
+    {% csrf_token %}{% for translte_str in articleTranlate_list_name %}
+    <li>
+        <tr>
+
+            <form action="{% url 'articleTranlate:updataArticle' %}" method="post" id={{forloop.counter0}}>
+                <textarea name="english_text" rows="10" cols="70">{{ translte_str.english_text }}</textarea>{% csrf_token %}
+                <textarea name="tranlate_text" rows="10" cols="70">{{ translte_str.tranlate_text }}</textarea> {% csrf_token %}
+                <input type="submit" value="提交" form={{forloop.counter0}} onclick="myFunction(this)">
+            </form>
+        </tr>
+    </li>{% endfor %}
+</ul>
+{% else %}
+<p>No articleTranlate are available.</p>
+{% endif %}

@@ -1,0 +1,20 @@
+{% load static %}
+<link /> {% if articleTranlate_list_name %}
+<ul>
+
+
+    <form action="{% url 'articleTranlate:updataArticle' %}" method="post">
+        {% csrf_token %} {% for translte_str in articleTranlate_list_name %}
+        <li>
+            <tr>
+                <textarea name="english_text" rows="10" cols="70">{{ translte_str.english_text }}</textarea>
+                <textarea name="tranlate_text" rows="10" cols="70">{{ translte_str.tranlate_text }}</textarea>
+                <input type="submit" value="提交">
+            </tr>
+        </li>
+        <br />{% endfor %}
+    </form>
+</ul>
+{% else %}
+<p>No articleTranlate are available.</p>
+{% endif %}

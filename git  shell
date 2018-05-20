@@ -1,0 +1,176 @@
+提交更新：
+sudo git commit -a -m "20180105： set up sys"
+git push origin master
+git push origin  ver0.1804:ver0.1804
+添加文件到库，并上传
+$ git add .     提交所有文件
+git add readme.txt
+git commit   -m "give a new file"
+git push origin master
+git push origin ver0.1803:ver0.1803
+显示所有分支
+	 git branch -v
+创建一个新的分支
+	git branch ver0.1801
+要切换到其他分支
+	git checkout testing
+要新建并切换到该分支
+	git checkout -b iss53
+将分支testing合并到master
+	git checkout master
+	git merge ver0.1702
+push本地分支代码到远端服务器,如果没有就创建该分支
+	 git push origin  testing
+删除分支
+	git branch -d testing
+查看本地分支
+	git branch
+查看远程分支
+	git branch --remote
+获取远程分支
+	/////git pull origin master:ver0.14
+	已经克隆下来整个项目后你本地其实已经有所有分支的数据了，只是没有本地分支而已
+	git checkout -t origin/ver0.15
+查看远程和本地所有分支，用-a参数
+	git branch -a
+删除远程分支
+	git push origin --delete testing
+	git push origin :ver0.1702
+提交分支数据到远程服务器
+	git push origin <local_branch_name>:<remote_branch_name>
+	git push origin ver0.1701:ver0.1701
+
+	git push origin <local_branch_name>:<remote_branch_name>
+	git push origin  ver0.1701:ver0.1701
+	git push origin master
+列出版本库中所有已删除的文件
+	git log --diff-filter=D --summary
+
+
+	git pull origin ver0.1701:ver0.1701
+	git pull origin master:ver0.1701
+	git pull origin master:libuv-io
+
+
+Git怎么查看某次提交某个文件的修改
+git 看某次commit改了哪些文件
+git log 查看commit的历史
+git show <commit-hash-id>查看某次commit的修改内容
+git log -p <filename>查看某个文件的修改历史
+git log -p -2查看最近2次的更新内容
+
+
+
+ axel -n 100
+aria2c -j 100 -s 10 -x 15
+
+git config --global user.email "piaoyaosuifengji@sina.com"
+git config --global user.name "piaoyaosuifengji"
+
+
+////////////cairo
+pkg-config --cflags --libs cairo
+
+
+
+重新配置git：
+ ssh-keygen -t rsa -C "piaoyaosuifengji@sina.com"
+添加ssh公钥后重新配置code：
+ ssh-keygen  -T git@git.coding.net  
+git clone https://git.coding.net/piaoyaosuifengji/nero.git
+git clone https://github.com/piaoyaosuifengji/NERO2.git
+
+
+
+
+
+
+#添加文件脚本：
+git add *
+git commit  -a -m "begin:"
+
+git push origin master
+
+    [
+        // 代码提示
+        { "keys": ["alt+space"], "command": "auto_complete" },
+        { "keys": ["alt+space"], "command": "replace_completion_with_auto_complete", "context":
+        [
+        { "key": "last_command", "operator": "equal", "operand": "insert_best_completion" },
+        { "key": "auto_complete_visible", "operator": "equal", "operand": false },
+        { "key": "setting.tab_completion", "operator": "equal", "operand": true }
+        ]
+        },
+        // 跳转到函数定义
+        { "keys": ["f1"], "command": "goto_definition" },
+        { "keys": ["f2"], "command": "next_bookmark" },
+        { "keys": ["shift+f2"], "command": "prev_bookmark" },
+        { "keys": ["ctrl+f2"], "command": "toggle_bookmark" },
+        { "keys": ["ctrl+shift+f2"], "command": "clear_bookmarks" },
+        { "keys": ["alt+f2"], "command": "select_all_bookmarks" },
+
+         { "keys": ["alt+x"], "command": "toggle_comment", "args": { "block": false } },
+         //kuai  zhu  shi
+        // { "keys": ["alt+x"], "command": "toggle_comment", "args": { "block": true } },
+    ]
+
+
+
+
+info breakpoints
+
+gdb neroMain
+file  ./tools/Nero_Task.c
+file  ./NeuralNetwork/NeuralOperating.c
+b  Process_ObjForecast
+b NeuralNetwork.c:3778
+b NeuralOperating.c:2622
+b NeuralOperating.c:2662
+NeuralNetwork.c
+
+ b 3815
+
+
+
+adb install path/to/my-app.apk
+
+/home/jty/bin/perf   stat  ./neroMain
+
+
+/home/jty/bin/perf record
+/home/jty/bin/perf report
+
+/home/jty/bin/perf top  -g
+
+
+perf record 记录单个函数级别的统计信息，并使用 perf report 来显示统计结果，以此可以找到热点：s
+/home/jty/bin/perf record –e cpu-clock ./neroMain
+/home/jty/bin/perf report
+给出函数的调用关系，以便于找到次级热点：
+/home/jty/bin/perf record -g -e cpu-clock ./neroMain
+/home/jty/bin/perf report   -g
+
+
+/home/jty/bin/perf record -g -e cpu-clock  -w --call-graph -p  25687
+
+
+--tui是交互式的文本显示窗口，--stdio是文本显示窗口。
+交互式显示例子，看概貌挺方便的 (常用的交互命令: E扩展，C收敛，q退出)
+perf report -g --tui
+文本显示例子，看细节挺方便
+perf report -v -n --showcpuutilization -g --stdio
+
+[ perf record: Captured and wrote 398.275 MB perf.data (5460767 samples) ]
+
+
+
+
+
+vm12 密钥
+5A02H-AU243-TZJ49-GTC7K-3C61N
+
+
+
+
+
+grep -rn "Create vector of fbank centre frequencies" *

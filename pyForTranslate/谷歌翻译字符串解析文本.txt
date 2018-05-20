@@ -1,0 +1,61 @@
+
+翻译的文本是：
+第1句：
+“You want interviewers to leave the discussion impressed with your technical capabilities as well as your soft skills,” Weneck says. 
+第2句：
+“Practicing interviews with a mentor or recruiter can help you become more polished in your responses and go into an interview with confidence. 
+
+第3句：
+Find someone who knows your industry and will give you candid feedback as you prepare.”
+
+
+显然，下面的字符串大体可以分成俩部分，
+那么你只需要把第一部分【】里面的东西解析出来就好了
+步骤：
+    1：去掉第一个[
+    2：找到第一个  ]]的地方，就是包含了所以翻译的字符串文本（有多余部分）
+
+    3：去掉头尾的[]
+    4：开始按照  ],   分割字符串,以下面的例子为例，会分割成4个字符串，
+        更好的方法是：找寻字符串  ],  找到一个就意味着找到了一个翻译对
+    5：对每个翻译对进行进一步的提取---就是最终结果
+
+
+[
+    [
+        ["Weneck说：“你希望采访者留下对你的技术能力和软技能印象深刻的讨论   。 ","“You want interviewers to leave the discussion impressed with your technical capabilities as well as your soft skills,” Weneck says.",null,null,3],
+        ["“与导师或招聘人员进行面试可以帮助您在回复中更加精益求精，并且有信心进行面试。","“Practicing interviews with a mentor or recruiter can help you become more polished in your responses and go into an interview with confidence.",null,null,3],
+        ["找到一个了解你的行业的人，并在你准备的时候给你坦率的反馈。“","Find someone who knows your industry and will give you candid feedbackas you prepare.”",null,null,3],
+        [null,null,"Weneck shuō:“Nǐ xīwàng cǎifǎng zhě liú xià duì nǐ de jìshù nénglì hé ruǎn jìnéng yìnxiàng shēnkè de tǎolùn. “Yǔ dǎoshī huò zhāopìn rényuán jìnxíng miànshì kěyǐ bāngzhù nín zài huífù zhōng gèngjiā jīngyìqiújīng, bìngqiě yǒu xìnxīn jìnxíng miànshì. Zhǎodàoyīgè liǎojiě nǐ de hángyè de rén, bìng zài nǐ zhǔnbèi de shíhòu gěi nǐ tǎnshuài de fǎnkuì.“"]
+    ]
+    ,null,"en",null,null,
+    [
+        ["“You want interviewers to leave the discussion impressed with your technical capabilities as well as your soft skills,” Weneck says.",null,
+            [
+                ["Weneck说：“你希望采访者留下对你的技术能力和软技能印象深刻的讨论。",0,true,false],
+                ["“你想面试官留下你的技术能力，以及你的软技能印象深刻的讨论，” Weneck说。",0,true,false]
+            ],
+            [[0,132]],
+            "“You want interviewers to leave the discussion impressed with your technical capabilities as well as your soft skills,” Weneck says."
+            ,0,0
+        ],
+        [   "“Practicinginterviews with a mentor or recruiter can help you become more polished in your responses and go into an interview with confidence.",null,
+            [
+                ["“与导师或招聘人员进行面试可以帮助您在回复中更加精益求精，并且有信心进行面试。",0,true,false],
+            ["“练与导师或招聘面试可以帮助你成为你的反应更加精致，进入有信心的采访。",0,true,false]
+            ],
+            [[0,143]],
+            "“Practicing interviews with a mentor or recruiter can help you become more polished in your responses and go into an interview with confidence.",0,0
+        ],
+        [
+            "Find someone who knows your industry and will give you candid feedback as you prepare.”",null,
+            [
+                ["找到一个了解你的行业的人，并在你准备的时候给你坦率的反馈。“",0,true,false],
+                ["找到谁知道你的行业，并给你坦诚的反馈，你做好准备。”",0,true,false]
+            ],
+            [[0,87]],"Find someone who knows your industry and will give you candid feedback as you prepare.”",0,0
+        ]
+    ]
+    ,1,null,
+    [["en"],null,[1],["en"]]
+]

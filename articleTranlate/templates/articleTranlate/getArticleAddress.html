@@ -1,0 +1,20 @@
+{% load static %}
+
+{% if ArticleAddress_str %}
+<ul>
+    <li>
+        <!-- <input type="text" name="FirstName" value={{ArticleAddress_str}}> -->
+        <br><br><br><br><br>
+
+
+
+        <form action="{% url 'articleTranlate:getArticleAddress' %}" method="post"  >
+
+                <input type="text" name="articleAddress_str"  value={{ArticleAddress_str}}>{% csrf_token %}
+                <input type="submit" value="提交"  formaction="{% url 'articleTranlate:getArticleAddress' %}"   formmethod='post' >{% csrf_token %}
+            </form>
+    </li>
+</ul>
+{% else %}
+<p>No getArticleAddress are available.</p>
+{% endif %}
