@@ -1,5 +1,5 @@
 提交更新：
-sudo git commit -a -m "20180105： set up sys"
+ git commit -a -m "20180520： set up pro"
 git push origin master
 git push origin  ver0.1804:ver0.1804
 添加文件到库，并上传
