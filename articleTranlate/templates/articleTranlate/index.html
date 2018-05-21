@@ -26,14 +26,45 @@
         return cookieValue;
     }
 
+    function saveCurrZhText() {
+        // 该方法会从选取元素，向上逐级查找其父节点。并返回第一个查找到的节点
+        // $(".submit").on('click',function () {
+        //     console.log($(this).closest("form").attr("id"));
+        // })
+
+
+        // var id = $(this).getAttribute("form");
+        var id = $(this).val("form");
+        debugger;
+        var f = document.getElementById(id);
+        var i;
+        var ee;
+        if (f == null) {
+            alert("is null：" + (id));
+            console.log(id);
+
+        } else {
+            for (i = 0; i < f.elements.length; i++) {
+                ee = f.elements[i];
+
+                if (ee.name == "english_text" || ee.name == "tranlate_text") {
+                    alert(ee.name + ee.value);
+                } else {
+
+                }
+            }
+        }
+
+
+    }
     function word_tranl_just() {
 
 
         //   $(this).hide();
-        console.log("here is null");
+        // 这个在
         userSelection = window.getSelection().toString();
         var csrf_token_ = getCookie('csrftoken');
-
+        alert(userSelection);
         $.post("{% url 'articleTranlate:get_one_word' %}",
             {
                 "word_translate": userSelection,
@@ -41,7 +72,9 @@
             },
             function (data, status) {
                 // alert("数据: \n" + data + "\n状态: " + status);
-                alert(data);
+                // alert(data);
+                console.log(data);
+
             });
 
     }
@@ -140,26 +173,55 @@
         // alert(xmlhttp.responseText);
     }
 
-        // function myFunction(e) {
-        //     var id = e.getAttribute("form");
-        //     var f = document.getElementById(id);
-        //     var i;
-        //     var ee;
-        //     if (f == null) {
-        //         alert("is null" + (id));
 
-        //     } else {
-        //         for (i = 0; i < f.elements.length; i++) {
-        //             ee = f.elements[i];
 
-        //             if (ee.name == "english_text" || ee.name == "tranlate_text") {
-        //                 alert(ee.name + ee.value);
-        //             } else {
+    // 将post一个句子的翻译进行保存
+    function post_save_one_str_(e) {
+        var id = e.getAttribute("form");
+        var f = document.getElementById(id);
+        var i;
+        var ee;
+        var csrf_token_ = getCookie('csrftoken');
+        var english_text;
+        var tranlate_text;
 
-        //             }
-        //         }
-        //     }
-        // }
+        if (f == null) {
+            alert("post_save_one_str_ ：form is null" + (id));
+
+        } else {
+            for (i = 0; i < f.elements.length; i++) {
+                ee = f.elements[i];
+
+                if (ee.name == "english_text"  ) {
+                    // alert(ee.name + ee.value);
+                    english_text = ee.value;
+                }
+                if ( ee.name == "tranlate_text") {
+                    tranlate_text = ee.value;
+                }
+            }
+
+            $.post("{% url 'articleTranlate:post_save_one_str' %}",
+                {
+                    "english_text": english_text,
+                    "tranlate_text": tranlate_text,
+                    "csrfmiddlewaretoken": csrf_token_,
+                },
+                function (data, status) {
+                    // alert("数据: \n" + data + "\n状态: " + status);
+                    // alert(data);
+                    // console.log(data);
+                    if (data == 'ok') {
+
+                        console.log(e.textContent);
+                        // e.value="已保存";
+                        // document.getElementById(id).nodeValue="已保存";
+                        e.textContent="已保存";
+                    }
+
+            });
+        }
+    }
         // function test() {
         //     var form1 = document.getElementById("form1");
         //     for (i = 0; i < form1.elements.length; i++) {
@@ -173,12 +235,6 @@
 <link /> {% if articleTranlate_list_name %}
 
 <body>
-    <h2>这是一个标题</h2>
-    <p>这是一个段落</p>
-    <p id="test">这是另外一个段落</p>
-    <button>点我</button>
-
-
     <!-- <input type="hidden" id="csrf_token"   >  {% csrf_token %} -->
     <input type="hidden" id="csrf_token" value="{{csrf_token}}">
     <!-- {% if ArticleAddress_str_name %}
@@ -193,9 +249,9 @@
             <tr>
                 <form action="{% url 'articleTranlate:updataArticle' %}" method="post" id={{forloop.counter0}}>
 
-                    <textarea name="english_text" rows="10" ondblclick="word_tranl_just()" cols="70">{{ translte_str.english_text }}</textarea>{% csrf_token %}
+                    <textarea name="english_text" rows="10" cols="70">{{ translte_str.english_text }}</textarea>{% csrf_token %}
                     <textarea name="tranlate_text" rows="10" cols="70">{{ translte_str.tranlate_text }}</textarea> {% csrf_token %}
-                    <input type="submit" value="保存" form={{forloop.counter0}}>{% csrf_token %}
+                    <button type="button" form={{forloop.counter0}} onclick="post_save_one_str_(this)">保存</button>{% csrf_token %}
                 </form>
             </tr>
         </li>
@@ -207,3 +263,4 @@
 
 </body>
 <!-- ondblclick="myFunction3()" -->
+<!-- <input type="submit" value="保存" form={{forloop.counter0}} onclick="saveCurrZhText()">{% csrf_token %} -->

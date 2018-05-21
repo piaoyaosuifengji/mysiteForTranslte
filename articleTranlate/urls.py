@@ -29,6 +29,7 @@ urlpatterns = [
     path('articleTranlate/ajax_dict/', views.ajax_dict, name='ajax_dict'),
     path('articleTranlate/ArticleAddress/', views.getArticleAddress, name='getArticleAddress'),
     path('articleTranlate/get_one_word/', views.get_one_word, name='get_one_word'),
+    path('articleTranlate/post_save_one_str/', views.post_save_one_str, name='post_save_one_str'),
 ]
 
 

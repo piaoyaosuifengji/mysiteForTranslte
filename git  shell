@@ -1,3 +1,7 @@
+
+python3 manage.py runserver
+
+
 提交更新：
  git commit -a -m "20180520： set up pro2"
 git push origin master

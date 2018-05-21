@@ -170,7 +170,9 @@ def splitArticle(Article_str):
     # 只能用列表
 
 
-    resultStr = re.split('\n(.+)\n', Article_str,re.M)
+    # resultStr = re.split('\n?(.+)\n?', '')
+    resultStr = re.split('\n?(.+)\n?', Article_str,re.M)
+    resultStr  = Article_str.split('\n')
     resultStr2 = []
     # j =0
     # logging.debug("\n")
@@ -189,6 +191,7 @@ def splitArticle(Article_str):
         if len(resultStr[i]) != 0 and len(resultStr[i]) != countOfN:
             # resultStr.pop(i)
             # logging.debug("len:"+str(len(resultStr[i])) + " "+ resultStr[i])
+            logging.debug("获取的段落是:"+str(i/2) + "\n"+ resultStr[i])
             resultStr2.append(resultStr[i])
 
     # logging.debug("end of splitArticle\n")

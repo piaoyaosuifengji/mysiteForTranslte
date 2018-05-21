@@ -3,6 +3,7 @@
 import os
 import codecs
 import time
+from django.shortcuts import get_list_or_404
 # from django.shortcuts import render
 from django.shortcuts import get_object_or_404, render
 from django.urls import reverse
@@ -113,6 +114,9 @@ def get_one_word(request):
             if m % 2 == 0:
                 english_text = str(strListByTrans[m])
                 ttranlate_text = str(strListByTrans[m+1])
+                logging.debug("english_text:"+(english_text))
+                logging.debug("ttranlate_text:"+(ttranlate_text))
+              
 
     return HttpResponse(english_text+"："+ttranlate_text, content_type="text/plain")
 
@@ -192,10 +196,12 @@ def getArticleAddress(request):
 
             # 这个列表中保存了所有的段落，包括标题，即每个list的对象是一个段落文本
             resultStr = splitArticle(ArticleString)
+            # logging.debug("待翻译的段落：\n"+resultStr  )
+          
             for i in range(len(resultStr)):
                 if len(resultStr[i]) != 0:
-                    logging.info(
-                        "len:"+str(len(resultStr[i])) + " " + resultStr[i])
+                    # logging.info("len:"+str(len(resultStr[i])) + " " + resultStr[i])
+                    # logging.info("\n\n下面是段落:"  +str(i) )
 
                     # 可以在这里进行翻译了
                     strListByTrans = googleAPIForTranslate(resultStr[i])
@@ -212,24 +218,63 @@ def getArticleAddress(request):
                             translte_str_obj.paragraph_id = i
 
                             translte_str_obj.save()
-                            # logging.debug("english--"+translte_str_obj.english_text)
-                            # logging.debug("english--"+strListByTrans[m]  )
-                            # logging.debug("tranlate--"+translte_str_obj.tranlate_text )
-                            # logging.debug("tranlate--"+strListByTrans[m+1]  )
+                            # logging.debug("english-----\n"+translte_str_obj.english_text)
+                            # logging.debug("tranlate-----\n"+translte_str_obj.tranlate_text )
 
-                            # translte_str_ = translte_str()
-                            # translte_str_.english_text = timezone.now()
-                            # translte_str_.tranlate_text = random.randint(0,99)
-                            # translte_str_.save()
+ 
         else:
             logging.debug(
                 "getArticleAddress : getArticleAddress can not be open "+ArticleAddress_str)
 
     return render(request, 'articleTranlate/getArticleAddress.html', context)
 
+
+
+
+
+# 功能和updataArticle相同，但是返回的是一个str：前端用js post
+@csrf_exempt
+def post_save_one_str(request):
+
+    logging.debug("post_save_one_str : need to get_one_word:")
+    english_text_ = ""
+    tranlate_text_ = ""
+
+    if request.method == 'GET':
+        return render(request, 'index.html')
+    else:
+        tranlate_text_ = request.POST.get('tranlate_text', '')
+        english_text_ = request.POST.get('english_text', '')
+
+        # 找到数据库里面english_text_的那个对象
+        # translte_str_obj = get_object_or_404(
+            # translte_str, english_text=request.POST['english_text'])
+
+        translte_str_objs = get_list_or_404(translte_str, english_text=request.POST['english_text'])
+        translte_str_obj = translte_str_objs[0]
+        
+        if tranlate_text_ == translte_str_obj.tranlate_text:
+            logging.debug("english_text_ 不需要更新")
+        else:
+            translte_str_obj.tranlate_text = tranlate_text_
+            translte_str_obj.save()
+            logging.debug("tranlate_text_  更新为：" +translte_str_obj.tranlate_text)
+            translte_str_all= translte_str.objects.all()
+
+            # logging.debug(english_text_)
+            # logging.debug(tranlate_text_)
+
+            # 这里需要把更新后的内容同时保存一份，以文本的格式，到本地目录
+            srcDir = checkFoldToSaveTranlate()
+            logging.debug(srcDir)
+            toSaveTranlateArticle(translte_str_all, srcDir)
+
+    return HttpResponse("ok", content_type="text/plain")
+
+
+
+
 # 暂时只能实现一次改一个句子
-
-
 def updataArticle(request):
     logging.debug("updataArticle : need to updata str is:")
 
