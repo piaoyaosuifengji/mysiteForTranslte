@@ -192,11 +192,11 @@
             for (i = 0; i < f.elements.length; i++) {
                 ee = f.elements[i];
 
-                if (ee.name == "english_text"  ) {
+                if (ee.name == "english_text") {
                     // alert(ee.name + ee.value);
                     english_text = ee.value;
                 }
-                if ( ee.name == "tranlate_text") {
+                if (ee.name == "tranlate_text") {
                     tranlate_text = ee.value;
                 }
             }
@@ -216,19 +216,98 @@
                         console.log(e.textContent);
                         // e.value="已保存";
                         // document.getElementById(id).nodeValue="已保存";
-                        e.textContent="已保存";
+                        e.textContent = "已保存";
                     }
 
-            });
+                });
         }
     }
-        // function test() {
-        //     var form1 = document.getElementById("form1");
-        //     for (i = 0; i < form1.elements.length; i++) {
-        //         var e = document.form1.elements[i];
-        //         alert(e.name + "\t" + e.value);
-        //     }
-        // }
+    function post_flag_do_later_save(e) {
+
+        var id = e.getAttribute("form");
+        var f = document.getElementById(id);
+        // var form1 = document.getElementById(id);
+        var i;
+        var ee;
+        var csrf_token_ = getCookie('csrftoken');
+        var english_text;
+        var tranlate_text;
+        if (f == null) {
+            alert("post_save_one_str_ ：form is null" + (id));
+
+        } else {
+            // f.style.visibility="hidden";
+            f.style.visibility = "visible";
+            // document.getElementById("EleId").style.visibility="visible"; 
+            // document.getElementById("EleId").style.visibility="visible"; 
+            // console.log(id + "id");
+
+
+            for (i = 0; i < f.elements.length; i++) {
+                objFind = f.elements[i];
+                // alert(e.name + "\t" + e.value);
+                console.log(":" + objFind.nodeName);
+                // console.log(":"+objFind.name);
+                // console.log(objFind.name);
+                if (objFind.nodeName == "time") {
+                    objFind.style.visibility = "visible";
+
+
+                }
+            }
+        }
+
+    }
+
+    function post_flag_do_later_(e) {
+
+        var id = e.getAttribute("form");
+        var f = document.getElementById(id);
+        var i;
+        var ee;
+        var csrf_token_ = getCookie('csrftoken');
+        var english_text;
+        var tranlate_text;
+
+        if (f == null) {
+            alert("post_save_one_str_ ：form is null" + (id));
+
+        } else {
+            for (i = 0; i < f.elements.length; i++) {
+                ee = f.elements[i];
+
+                if (ee.name == "english_text") {
+                    // alert(ee.name + ee.value);
+                    english_text = ee.value;
+                }
+                if (ee.name == "tranlate_text") {
+                    tranlate_text = "【ToUpdate】" + ee.value;
+                }
+            }
+
+            $.post("{% url 'articleTranlate:post_save_one_str' %}",
+                {
+                    "english_text": english_text,
+                    "tranlate_text": tranlate_text,
+                    "csrfmiddlewaretoken": csrf_token_,
+                },
+                function (data, status) {
+                    // alert("数据: \n" + data + "\n状态: " + status);
+                    // alert(data);
+                    // console.log(data);
+                    if (data == 'ok') {
+
+                        console.log(e.textContent);
+                        // e.value="已保存";
+                        // document.getElementById(id).nodeValue="已保存";
+                        e.textContent = "已标记";
+                    }
+
+                });
+        }
+
+    }
+
 </script>
 
 
@@ -240,21 +319,41 @@
     <!-- {% if ArticleAddress_str_name %}
         <input type="text" name="FirstName" value={{articleTranlate_list_name}}><br>
         {% endif %} -->
-    <ul>
-        {% csrf_token %} {% for translte_str in articleTranlate_list_name %}
-        <li>
-            <div style="color:#0000FF">
-                <p>句子：{{forloop.counter0}} 段落：{{ translte_str.paragraph_id }}</p>
-            </div>
-            <tr>
-                <form action="{% url 'articleTranlate:updataArticle' %}" method="post" id={{forloop.counter0}}>
 
-                    <textarea name="english_text" rows="10" cols="70">{{ translte_str.english_text }}</textarea>{% csrf_token %}
-                    <textarea name="tranlate_text" rows="10" cols="70">{{ translte_str.tranlate_text }}</textarea> {% csrf_token %}
-                    <button type="button" form={{forloop.counter0}} onclick="post_save_one_str_(this)">保存</button>{% csrf_token %}
-                </form>
+
+
+    <ul>
+
+        {% csrf_token %} {% for translte_str in articleTranlate_list_name %}
+        <table>
+            <tr style="color:#0000FF">
+                <p>句子：{{forloop.counter0}} 段落：{{ translte_str.paragraph_id }}</p>
             </tr>
-        </li>
+            <tr>
+                <td>
+                    <form action="{% url 'articleTranlate:updataArticle' %}" method="post" id={{forloop.counter0}}>
+
+                        <textarea name="english_text" rows="10" cols="70">{{ translte_str.english_text }}</textarea>{% csrf_token %}
+                        <textarea name="tranlate_text" rows="10" cols="70">{{ translte_str.tranlate_text }}</textarea> {% csrf_token %}
+
+                    </form>
+                </td>
+
+                <td>
+
+                    <!-- <time style="visibility: hidden;" name = "timeShow" form={{forloop.counter0}}>9:00</time>  -->
+
+                    <br>
+                    <br>
+                    <button type="button" form={{forloop.counter0}} onclick="post_flag_do_later_(this)">再说</button>{% csrf_token %}
+                    <br>
+                    <br>
+                    <button type="button" form={{forloop.counter0}} onclick="post_save_one_str_(this)">保存</button>{% csrf_token %}
+
+                </td>
+
+            </tr>
+        </table>
         {% endfor %}
     </ul>
     {% else %}
@@ -262,5 +361,3 @@
     {% endif %}
 
 </body>
-<!-- ondblclick="myFunction3()" -->
-<!-- <input type="submit" value="保存" form={{forloop.counter0}} onclick="saveCurrZhText()">{% csrf_token %} -->
