@@ -3,7 +3,7 @@ python3 manage.py runserver
 
 
 提交更新：
- git commit -a -m "20180522： 暂时可以不修改了"
+ git commit -a -m "20180524： 暂时可以不修改了"
 git push origin master
 git push origin  ver0.1804:ver0.1804
 添加文件到库，并上传
@@ -17,7 +17,9 @@ git push origin ver0.1803:ver0.1803
 创建一个新的分支
 	git branch ver0.1801
 要切换到其他分支
+
 	git checkout testing
+
 要新建并切换到该分支
 	git checkout -b iss53
 将分支testing合并到master
@@ -68,13 +70,15 @@ git log -p -2查看最近2次的更新内容
  axel -n 100
 aria2c -j 100 -s 10 -x 15
 
-git config --global user.email "piaoyaosuifengji@sina.com"
-git config --global user.name "piaoyaosuifengji"
-
 
 
 重新配置git：
  ssh-keygen -t rsa -C "piaoyaosuifengji@sina.com"
+git config --global user.email "piaoyaosuifengji@sina.com"
+git config --global user.name "piaoyaosuifengji"
+
+
+ 
 添加ssh公钥后重新配置code：
  ssh-keygen  -T git@git.coding.net  
 
@@ -86,6 +90,7 @@ git clone https://github.com/piaoyaosuifengji/NERO2.git
 移除https的方式，换成 ssh方式
  git remote rm origin
 
+搜索
 
  然后，这样就不需要密码了
  git remote add origin git@github.com:piaoyaosuifengji/mysiteForTranslte.git
