@@ -8,6 +8,7 @@ import time
 import logging
 import urllib.request      
 from pyForTranslate.HandleJs import Py4Js 
+# from HandleJs import Py4Js 
 #获取系统时间，如果超过固定时间就退出
 
 # timeStr=time.strftime('%Y-%m',time.localtime(time.time()))

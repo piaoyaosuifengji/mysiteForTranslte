@@ -1,14 +1,100 @@
 <!-- data:{'user':user,'pwd':pwd,'csrfmiddlewaretoken':'{{ csrf_token }}'}, {% load static %} -->
 
-
 <head>
     <title>translate</title>
     <script src="{% static '/js/jquery-3.3.1.js' %}"></script>
+    <style>
+        button.bt_do_later {
+            position: relative;
+
+            height: 50px;
+            width: 80px;
+            /* top: 1px; */
+            /* right:1px; */
+            left: -550px;
+        }
+
+        button.bt_save_one_str {
+            position: relative;
+
+            height: 50px;
+            width: 80px;
+            /* top: 1px; */
+            /* right:1px; */
+            left: -550px;
+        }
+
+        textarea.english_text {
+            position: relative;
+
+            height: 180px;
+            width: 600px;
+            /* top: 1px; */
+            /* right:1px; */
+            /* left: 1px; */
+        }
+
+        textarea.english_text_wy {
+
+            /* color: rgb(107, 104, 104); */
+            position: relative;
+
+            height: 90px;
+            width: 600px;
+            /* top:1px; */
+            /* right:601px;    */
+            /* left: 1px; */
+        }
+
+        textarea.tranlate_text {
+            position: relative;
+
+            height: 90px;
+            width: 600px;
+            /* right:601px;     */
+            /* top: 1px; */
+        }
+    </style>
+
 </head>
 
 
 
 <script>
+    var flagForInputPlace = 0;
+
+    document.onkeydown = function (e) {
+        s1 = 'tranlate_text'
+        s2 = 'english_text_wy'
+        var keyCode = e.keyCode || e.which || e.charCode;
+        var ctrlKey = e.ctrlKey || e.metaKey;
+        var altKey = e.altKey || e.metaKey;
+
+        if (ctrlKey && keyCode == 83) {
+            elem = e.target ? e.target : (e.srcElement ? e.srcElement : null);
+            // if (elem &&  (elem.name ==  s1 || elem.name == s2)) {
+            if (elem &&  (elem.name ==  s1  || elem.name == s2)) {
+                // alert(elem.name);
+                // alert(elem.value);
+                // alert(elem.class)
+                post_save_one_str_(elem);
+                flagForInputPlace = 1;
+                // e.preventDefault();
+                return false;
+            }
+        }
+        if (altKey && keyCode == 83  ) {
+            elem = e.target ? e.target : (e.srcElement ? e.srcElement : null);
+            if (elem &&  (elem.name ==  s1 || elem.name == s2 )) {
+                post_flag_do_later_(elem);
+                // e.preventDefault();
+                flagForInputPlace = 2;
+                return false;
+            }
+        }       
+        return true;
+    }
+
 
     function getCookie(name) {
         var cookieValue = null;
@@ -177,6 +263,7 @@
 
     // 将post一个句子的翻译进行保存
     function post_save_one_str_(e) {
+        // var ename = e.name;
         var id = e.getAttribute("form");
         var f = document.getElementById(id);
         var i;
@@ -184,7 +271,10 @@
         var csrf_token_ = getCookie('csrftoken');
         var english_text;
         var tranlate_text;
-
+        var bt_save_one_str;
+        var bt_do_later;
+        // var flag;
+        // flag =0;
         if (f == null) {
             alert("post_save_one_str_ ：form is null" + (id));
 
@@ -196,8 +286,22 @@
                     // alert(ee.name + ee.value);
                     english_text = ee.value;
                 }
-                if (ee.name == "tranlate_text") {
+                if (e.name == ee.name  &&  ee.name == "tranlate_text") {
                     tranlate_text = ee.value;
+                }
+                if (e.name == ee.name  && ee.name == "english_text_wy") {
+                    tranlate_text = ee.value;
+                }
+
+                if (ee.name == "bt_save_one_str") {
+                    console.log(ee.name);
+                    bt_save_one_str = ee;
+                    // flag =1;
+                }
+                if (ee.name == "bt_do_later") {
+                    console.log(ee.name);
+                    bt_do_later = ee;
+                    // flag =2;
                 }
             }
 
@@ -213,10 +317,13 @@
                     // console.log(data);
                     if (data == 'ok') {
 
-                        console.log(e.textContent);
+                        // console.log(e.textContent);
                         // e.value="已保存";
                         // document.getElementById(id).nodeValue="已保存";
-                        e.textContent = "已保存";
+                        // if ( flag == 1) {
+                        bt_save_one_str.textContent = "已保存";
+                        // }
+                       
                     }
 
                 });
@@ -260,7 +367,7 @@
     }
 
     function post_flag_do_later_(e) {
-
+        // var ename=e.name;
         var id = e.getAttribute("form");
         var f = document.getElementById(id);
         var i;
@@ -268,6 +375,10 @@
         var csrf_token_ = getCookie('csrftoken');
         var english_text;
         var tranlate_text;
+        var bt_save_one_str;
+        var bt_do_later;
+        // var flag;
+        // flag =0;
 
         if (f == null) {
             alert("post_save_one_str_ ：form is null" + (id));
@@ -280,9 +391,25 @@
                     // alert(ee.name + ee.value);
                     english_text = ee.value;
                 }
-                if (ee.name == "tranlate_text") {
+                if (e.name == ee.name  && ee.name == "tranlate_text") {
                     tranlate_text = "【ToUpdate】" + ee.value;
                 }
+
+                if (e.name == ee.name  &&  ee.name == "english_text_wy") {
+                    tranlate_text = "【ToUpdate】" + ee.value;
+                }
+
+                if (ee.name == "bt_save_one_str") {
+                    console.log(ee.name);
+                    bt_save_one_str = ee;
+                    // flag =1;
+                }
+                if (ee.name == "bt_do_later") {
+                    console.log(ee.name);
+                    bt_do_later = ee;
+                    // flag =2;
+                }
+
             }
 
             $.post("{% url 'articleTranlate:post_save_one_str' %}",
@@ -300,7 +427,10 @@
                         console.log(e.textContent);
                         // e.value="已保存";
                         // document.getElementById(id).nodeValue="已保存";
-                        e.textContent = "已标记";
+                        // if ( flag == 2) {
+                        bt_do_later.textContent = "已标记";
+                        // }
+
                     }
 
                 });
@@ -330,28 +460,23 @@
                 <p>句子：{{forloop.counter0}} 段落：{{ translte_str.paragraph_id }}</p>
             </tr>
             <tr>
+
+                <form action="{% url 'articleTranlate:updataArticle' %}" method="post" id={{forloop.counter0}}>
+                    <td>
+                        <textarea class="english_text" name="english_text" rows="10" cols="70">{{ translte_str.english_text}}</textarea>{% csrf_token %}
+                    </td>
+                    <td>
+                        <textarea class="tranlate_text" name="tranlate_text" form={{forloop.counter0}} rows="10" cols="70">{{ translte_str.tranlate_text }}</textarea> {% csrf_token %}
+                        <textarea class="english_text_wy" name="english_text_wy" form={{forloop.counter0}} rows="10" cols="70">{{ translte_str.tranlate_text_wy}}</textarea>{% csrf_token %}
+                    </td>
+                </form>
                 <td>
-                    <form action="{% url 'articleTranlate:updataArticle' %}" method="post" id={{forloop.counter0}}>
-
-                        <textarea name="english_text" rows="10" cols="70">{{ translte_str.english_text }}</textarea>{% csrf_token %}
-                        <textarea name="tranlate_text" rows="10" cols="70">{{ translte_str.tranlate_text }}</textarea> {% csrf_token %}
-
-                    </form>
-                </td>
-
-                <td>
-
                     <!-- <time style="visibility: hidden;" name = "timeShow" form={{forloop.counter0}}>9:00</time>  -->
-
+                    <button class="bt_do_later"  name="bt_do_later"  type="button" form={{forloop.counter0}} onclick="post_flag_do_later_(this)">再说</button>{% csrf_token %}
                     <br>
                     <br>
-                    <button type="button" form={{forloop.counter0}} onclick="post_flag_do_later_(this)">再说</button>{% csrf_token %}
-                    <br>
-                    <br>
-                    <button type="button" form={{forloop.counter0}} onclick="post_save_one_str_(this)">保存</button>{% csrf_token %}
-
+                    <button class="bt_save_one_str" name="bt_save_one_str" type="button" form={{forloop.counter0}} onclick="post_save_one_str_(this)">保存</button>{% csrf_token %}
                 </td>
-
             </tr>
         </table>
         {% endfor %}

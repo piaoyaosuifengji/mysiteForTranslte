@@ -1,3 +1,5 @@
+#! python3
+# -- coding: utf-8
 from django.db import models
 import datetime
 # from django.db import models
@@ -12,6 +14,7 @@ class translte_str(models.Model):
 
     english_text = models.CharField(max_length=5500)
     tranlate_text = models.CharField(max_length=5500)
+    tranlate_text_wy = models.CharField(max_length=5500, default='nulll')
 
     # id =  models.IntegerField(default=0)
     paragraph_id = models.IntegerField(default=0)

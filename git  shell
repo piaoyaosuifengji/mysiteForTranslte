@@ -3,9 +3,9 @@ python3 manage.py runserver
 
 
 提交更新：
- git commit -a -m "20180524： 暂时可以不修改了"
+ git commit -a -m "20180608： 加入有道翻译"
 git push origin master
-git push origin  ver0.1804:ver0.1804
+git push origin  ver1:ver1
 添加文件到库，并上传
 $ git add .     提交所有文件
 git add readme.txt

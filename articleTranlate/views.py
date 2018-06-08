@@ -11,7 +11,8 @@ from django.http import HttpResponseRedirect, HttpResponse
 from django.http import JsonResponse
 # Create your views here.
 from django.views import generic
-from pyForTranslate.googleAPIForTranslate import printTranslate, googleAPIForTranslate, splitArticle
+from pyForTranslate.googleAPIForTranslate import printTranslate, googleAPIForTranslate, splitArticle 
+from pyForTranslate.youdaofanyi import youdaofanyi,youdaofanyi_api
 from .myfileManage import toSaveTranlateArticle, checkFoldToSaveTranlate
 # from HandleJs import Py4Js
 from pyForTranslate.HandleJs import Py4Js
@@ -215,6 +216,10 @@ def getArticleAddress(request):
                                 strListByTrans[m])
                             translte_str_obj.tranlate_text = str(
                                 strListByTrans[m+1])
+                            # zhei这里只是有一个句子
+                            tmp_translte_str = youdaofanyi_api(translte_str_obj.english_text)
+                            translte_str_obj.tranlate_text_wy = tmp_translte_str
+
                             translte_str_obj.paragraph_id = i
 
                             translte_str_obj.save()
