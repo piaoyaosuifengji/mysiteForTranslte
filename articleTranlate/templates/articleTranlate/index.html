@@ -54,6 +54,18 @@
             /* right:601px;     */
             /* top: 1px; */
         }
+
+        button.save_into_doc {
+            /* position: relative; */
+            position: sticky;
+            top: 10px;
+            /* right:601px;     */
+            left: 1400px;
+            height: 50px;
+            width: 80px;
+
+            /* top: 1px; */
+        }
     </style>
 
 </head>
@@ -73,7 +85,7 @@
         if (ctrlKey && keyCode == 83) {
             elem = e.target ? e.target : (e.srcElement ? e.srcElement : null);
             // if (elem &&  (elem.name ==  s1 || elem.name == s2)) {
-            if (elem &&  (elem.name ==  s1  || elem.name == s2)) {
+            if (elem && (elem.name == s1 || elem.name == s2)) {
                 // alert(elem.name);
                 // alert(elem.value);
                 // alert(elem.class)
@@ -83,15 +95,43 @@
                 return false;
             }
         }
-        if (altKey && keyCode == 83  ) {
+        if (altKey && keyCode == 83) {
             elem = e.target ? e.target : (e.srcElement ? e.srcElement : null);
-            if (elem &&  (elem.name ==  s1 || elem.name == s2 )) {
+            if (elem && (elem.name == s1 || elem.name == s2)) {
                 post_flag_do_later_(elem);
                 // e.preventDefault();
                 flagForInputPlace = 2;
                 return false;
             }
-        }       
+        }
+
+        if (keyCode == 9) {
+            elem = e.target ? e.target : (e.srcElement ? e.srcElement : null);
+            if (elem &&  elem.name == s2) {
+                // alert(elem.form.id);
+                nextId_ = Number(elem.form.id) ;
+                nextId_ = nextId_ +1;
+                // alert(nextId_.toString());
+                var f = document.getElementById(nextId_);
+                if (f == null) {
+                    // alert("post_save_one_str_ ：form is null" + (id));
+                } else{
+                    for (i = 0; i < f.elements.length; i++) {
+                        ee = f.elements[i];
+
+                        if (ee.name == "tranlate_text") {
+                            // alert(ee.name + ee.value);
+                            // english_text = ee.value;
+                            ee.focus();
+                        }
+                    }
+                }
+                return false;
+            } else {
+                return true;
+            }
+        }
+
         return true;
     }
 
@@ -144,8 +184,6 @@
 
     }
     function word_tranl_just() {
-
-
         //   $(this).hide();
         // 这个在
         userSelection = window.getSelection().toString();
@@ -286,10 +324,10 @@
                     // alert(ee.name + ee.value);
                     english_text = ee.value;
                 }
-                if (e.name == ee.name  &&  ee.name == "tranlate_text") {
+                if (e.name == ee.name && ee.name == "tranlate_text") {
                     tranlate_text = ee.value;
                 }
-                if (e.name == ee.name  && ee.name == "english_text_wy") {
+                if (e.name == ee.name && ee.name == "english_text_wy") {
                     tranlate_text = ee.value;
                 }
 
@@ -323,7 +361,7 @@
                         // if ( flag == 1) {
                         bt_save_one_str.textContent = "已保存";
                         // }
-                       
+
                     }
 
                 });
@@ -365,7 +403,27 @@
         }
 
     }
+    function save_into_doc_fuc(e) {
+        var csrf_token_ = getCookie('csrftoken');
+        $.post("{% url 'articleTranlate:save_into_doc' %}",
+            {
+                "send_var": "creDoc",
+                "csrfmiddlewaretoken": csrf_token_,
+            },
+            function (data, status) {
+                // alert("数据: \n" + data + "\n状态: " + status);
+                // alert(data);
+                // console.log(data);
+                if (data == 'ok') {
+                    // console.log(e.textContent);
+                    // bt_do_later.textContent = "已标记";
+                }
 
+            });
+
+
+
+    }
     function post_flag_do_later_(e) {
         // var ename=e.name;
         var id = e.getAttribute("form");
@@ -391,11 +449,11 @@
                     // alert(ee.name + ee.value);
                     english_text = ee.value;
                 }
-                if (e.name == ee.name  && ee.name == "tranlate_text") {
+                if (e.name == ee.name && ee.name == "tranlate_text") {
                     tranlate_text = "【ToUpdate】" + ee.value;
                 }
 
-                if (e.name == ee.name  &&  ee.name == "english_text_wy") {
+                if (e.name == ee.name && ee.name == "english_text_wy") {
                     tranlate_text = "【ToUpdate】" + ee.value;
                 }
 
@@ -450,6 +508,7 @@
         <input type="text" name="FirstName" value={{articleTranlate_list_name}}><br>
         {% endif %} -->
 
+    <button class="save_into_doc" name="save_into_doc" type="button" onclick="save_into_doc_fuc(this)">保存至doc</button>{% csrf_token %}
 
 
     <ul>
@@ -472,7 +531,7 @@
                 </form>
                 <td>
                     <!-- <time style="visibility: hidden;" name = "timeShow" form={{forloop.counter0}}>9:00</time>  -->
-                    <button class="bt_do_later"  name="bt_do_later"  type="button" form={{forloop.counter0}} onclick="post_flag_do_later_(this)">再说</button>{% csrf_token %}
+                    <button class="bt_do_later" name="bt_do_later" type="button" form={{forloop.counter0}} onclick="post_flag_do_later_(this)">再说</button>{% csrf_token %}
                     <br>
                     <br>
                     <button class="bt_save_one_str" name="bt_save_one_str" type="button" form={{forloop.counter0}} onclick="post_save_one_str_(this)">保存</button>{% csrf_token %}

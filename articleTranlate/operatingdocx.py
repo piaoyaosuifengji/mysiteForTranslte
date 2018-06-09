@@ -12,7 +12,7 @@ from docx.enum.text import WD_ALIGN_PARAGRAPH
 
 
 # 这个类不保存文本数据，只接受文本数据，通过给定的格式信息和文本的定位直接生成和写入到docx中去
-class CreTranslationDocx:
+class  CreTranslationDocx :
     def __init__(self,fileDir,fileName):
             self.fileDir = fileDir
             self.fileName = fileName
@@ -20,9 +20,7 @@ class CreTranslationDocx:
             # 不检查目录 fileDir 是否存在，只检查 文件  fileName是否存在
             if os.path.exists(self.totalFilePath) == True:
                 os.remove(self.totalFilePath)
-
             self.document = Document( )
-
     # 默认设置3级标题，和文本字体一样大小，居中
     def add_heading(self,text_for_add):
             # self.document.add_heading(text_for_add,3)
@@ -31,8 +29,7 @@ class CreTranslationDocx:
             run = paragraph.add_run(text_for_add)
             run.bold =  True
             paragraph.alignment = WD_ALIGN_PARAGRAPH.CENTER
-
-    
+    # 文章内部小标题
     def add_title(self,text_for_add):
             paragraph = self.document.add_paragraph('\t') 
             run = paragraph.add_run(text_for_add)
@@ -44,7 +41,6 @@ class CreTranslationDocx:
             return paragraph
 
     def add_sentence(self,text_for_add,paragraph):
-            
             run = paragraph.add_run(text_for_add)
             #设置字号
             run.font.size = Pt(12)
@@ -185,7 +181,7 @@ def main():
     creDoc = CreTranslationDocx("/home/jty/codetest","test.docx")
     creDoc.add_heading( "标题")
    
-    creDoc.add_sentence("话的意思就是，当模块被直接运行时，以下“ss"代码块将被运行", creDoc.add_paragraph())
+    # creDoc.add_sentence("话的意思就是，当模块被直接运行时，以下“ss"代码块将被运行", creDoc.add_paragraph())
     # creDoc.add_sentence("话的意思就是，当模块被直接运行时，以下代码块将被运行", creDoc.add_paragraph())
     creDoc.add_title("这句话的意思就是")
     creDoc.add_sentence("话的意思就是，当模块被直接运行时，以下代码块将被运行", creDoc.add_paragraph())

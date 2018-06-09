@@ -30,6 +30,7 @@ urlpatterns = [
     path('articleTranlate/ArticleAddress/', views.getArticleAddress, name='getArticleAddress'),
     path('articleTranlate/get_one_word/', views.get_one_word, name='get_one_word'),
     path('articleTranlate/post_save_one_str/', views.post_save_one_str, name='post_save_one_str'),
+    path('articleTranlate/save_into_doc/', views.save_into_doc, name='save_into_doc'),
 ]
 
 
