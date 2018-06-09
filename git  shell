@@ -3,7 +3,7 @@ python3 manage.py runserver
 
 
 提交更新：
- git commit -a -m "20180609： add tab auto "
+ git commit -a -m "20180609： add tab auto1 "
 git push origin master
 git push origin  ver1:ver1
 添加文件到库，并上传
@@ -18,7 +18,7 @@ git push origin ver0.1803:ver0.1803
 	git branch ver0.1801
 要切换到其他分支
 
-	git checkout testing
+	git checkout ver1
 
 要新建并切换到该分支
 	git checkout -b iss53
