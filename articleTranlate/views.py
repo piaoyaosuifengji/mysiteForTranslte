@@ -216,7 +216,7 @@ def getArticleAddress(request):
                                 strListByTrans[m])
                             translte_str_obj.tranlate_text = str(
                                 strListByTrans[m+1])
-                            # zhei这里只是有一个句子
+
                             tmp_translte_str = youdaofanyi_api(translte_str_obj.english_text)
                             translte_str_obj.tranlate_text_wy = tmp_translte_str
 
