@@ -3,9 +3,10 @@ python3 manage.py runserver
 
 
 提交更新：
- git commit -a -m "20180609： add tab auto1 "
+ git commit -a -m "20180620： add file 2 "
 git push origin master
 git push origin  ver1:ver1
+git push origin  ver2:ver2
 添加文件到库，并上传
 $ git add .     提交所有文件
 git add readme.txt
