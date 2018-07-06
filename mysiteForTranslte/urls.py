@@ -21,7 +21,7 @@ from django.urls import include,path
 
 urlpatterns = [
     path('articleTranlate/', include('articleTranlate.urls')),
-    path('polls/', include('polls.urls')),
+    # path('polls/', include('polls.urls')),
     path('admin/', admin.site.urls),            
 ]
 # 函数 include() 允许引用其它 URLconfs。

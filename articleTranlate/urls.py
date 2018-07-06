@@ -22,8 +22,6 @@ app_name = 'articleTranlate'
  
 urlpatterns = [
     path('', views.articleView.as_view(), name='index'),
-    # path('<int:pk>/', views.DetailView.as_view(), name='detail'),
-    # path('<int:pk>/results/', views.ResultsView.as_view(), name='results'),
     path('articleTranlate/updataArticle/', views.updataArticle, name='updataArticle'),
     path('articleTranlate/ajax_list/', views.ajax_list, name='ajax_list'),
     path('articleTranlate/ajax_dict/', views.ajax_dict, name='ajax_dict'),
@@ -34,7 +32,4 @@ urlpatterns = [
 ]
 
 
-
-    # url(r'^ajax_list/$', 'tools.views.ajax_list', name='ajax-list'),
-    # url(r'^ajax_dict/$', 'tools.views.ajax_dict', name='ajax-dict'),
-
+ 

@@ -1,187 +1,3 @@
-DEBUG:root:save_into_doc :   
-DEBUG:root:save_into_doc :   creDoc
-DEBUG:PIL.Image:Importing BlpImagePlugin
-DEBUG:PIL.Image:Importing BmpImagePlugin
-DEBUG:PIL.Image:Importing BufrStubImagePlugin
-DEBUG:PIL.Image:Importing CurImagePlugin
-DEBUG:PIL.Image:Importing DcxImagePlugin
-DEBUG:PIL.Image:Importing DdsImagePlugin
-DEBUG:PIL.Image:Importing EpsImagePlugin
-DEBUG:PIL.Image:Importing FitsStubImagePlugin
-DEBUG:PIL.Image:Importing FliImagePlugin
-DEBUG:PIL.Image:Importing FpxImagePlugin
-DEBUG:PIL.Image:Importing FtexImagePlugin
-DEBUG:PIL.Image:Importing GbrImagePlugin
-DEBUG:PIL.Image:Importing GifImagePlugin
-DEBUG:PIL.Image:Importing GribStubImagePlugin
-DEBUG:PIL.Image:Importing Hdf5StubImagePlugin
-DEBUG:PIL.Image:Importing IcnsImagePlugin
-DEBUG:PIL.Image:Importing IcoImagePlugin
-DEBUG:PIL.Image:Importing ImImagePlugin
-DEBUG:PIL.Image:Importing ImtImagePlugin
-DEBUG:PIL.Image:Importing IptcImagePlugin
-DEBUG:PIL.Image:Importing JpegImagePlugin
-DEBUG:PIL.Image:Importing Jpeg2KImagePlugin
-DEBUG:PIL.Image:Importing McIdasImagePlugin
-DEBUG:PIL.Image:Importing MicImagePlugin
-DEBUG:PIL.Image:Importing MpegImagePlugin
-DEBUG:PIL.Image:Importing MpoImagePlugin
-DEBUG:PIL.Image:Importing MspImagePlugin
-DEBUG:PIL.Image:Importing PalmImagePlugin
-DEBUG:PIL.Image:Importing PcdImagePlugin
-DEBUG:PIL.Image:Importing PcxImagePlugin
-DEBUG:PIL.Image:Importing PdfImagePlugin
-DEBUG:PIL.Image:Importing PixarImagePlugin
-DEBUG:PIL.Image:Importing PngImagePlugin
-DEBUG:PIL.Image:Importing PpmImagePlugin
-DEBUG:PIL.Image:Importing PsdImagePlugin
-DEBUG:PIL.Image:Importing SgiImagePlugin
-DEBUG:PIL.Image:Importing SpiderImagePlugin
-DEBUG:PIL.Image:Importing SunImagePlugin
-DEBUG:PIL.Image:Importing TgaImagePlugin
-DEBUG:PIL.Image:Importing TiffImagePlugin
-DEBUG:PIL.Image:Importing WebPImagePlugin
-DEBUG:PIL.Image:Importing WmfImagePlugin
-DEBUG:PIL.Image:Importing XbmImagePlugin
-DEBUG:PIL.Image:Importing XpmImagePlugin
-DEBUG:PIL.Image:Importing XVThumbImagePlugin
-DEBUG:PIL.Image:Importing BlpImagePlugin
-DEBUG:PIL.Image:Importing BmpImagePlugin
-DEBUG:PIL.Image:Importing BufrStubImagePlugin
-DEBUG:PIL.Image:Importing CurImagePlugin
-DEBUG:PIL.Image:Importing DcxImagePlugin
-DEBUG:PIL.Image:Importing DdsImagePlugin
-DEBUG:PIL.Image:Importing EpsImagePlugin
-DEBUG:PIL.Image:Importing FitsStubImagePlugin
-DEBUG:PIL.Image:Importing FliImagePlugin
-DEBUG:PIL.Image:Importing FpxImagePlugin
-DEBUG:PIL.Image:Importing FtexImagePlugin
-DEBUG:PIL.Image:Importing GbrImagePlugin
-DEBUG:PIL.Image:Importing GifImagePlugin
-DEBUG:PIL.Image:Importing GribStubImagePlugin
-DEBUG:PIL.Image:Importing Hdf5StubImagePlugin
-DEBUG:PIL.Image:Importing IcnsImagePlugin
-DEBUG:PIL.Image:Importing IcoImagePlugin
-DEBUG:PIL.Image:Importing ImImagePlugin
-DEBUG:PIL.Image:Importing ImtImagePlugin
-DEBUG:PIL.Image:Importing IptcImagePlugin
-DEBUG:PIL.Image:Importing JpegImagePlugin
-DEBUG:PIL.Image:Importing Jpeg2KImagePlugin
-DEBUG:PIL.Image:Importing McIdasImagePlugin
-DEBUG:PIL.Image:Importing MicImagePlugin
-DEBUG:PIL.Image:Importing MpegImagePlugin
-DEBUG:PIL.Image:Importing MpoImagePlugin
-DEBUG:PIL.Image:Importing MspImagePlugin
-DEBUG:PIL.Image:Importing PalmImagePlugin
-DEBUG:PIL.Image:Importing PcdImagePlugin
-DEBUG:PIL.Image:Importing PcxImagePlugin
-DEBUG:PIL.Image:Importing PdfImagePlugin
-DEBUG:PIL.Image:Importing PixarImagePlugin
-DEBUG:PIL.Image:Importing PngImagePlugin
-DEBUG:PIL.Image:Importing PpmImagePlugin
-DEBUG:PIL.Image:Importing PsdImagePlugin
-DEBUG:PIL.Image:Importing SgiImagePlugin
-DEBUG:PIL.Image:Importing SpiderImagePlugin
-DEBUG:PIL.Image:Importing SunImagePlugin
-DEBUG:PIL.Image:Importing TgaImagePlugin
-DEBUG:PIL.Image:Importing TiffImagePlugin
-DEBUG:PIL.Image:Importing WebPImagePlugin
-DEBUG:PIL.Image:Importing WmfImagePlugin
-DEBUG:PIL.Image:Importing XbmImagePlugin
-DEBUG:PIL.Image:Importing XpmImagePlugin
-DEBUG:PIL.Image:Importing XVThumbImagePlugin
-DEBUG:PIL.Image:Importing BlpImagePlugin
-DEBUG:PIL.Image:Importing BmpImagePlugin
-DEBUG:PIL.Image:Importing BufrStubImagePlugin
-DEBUG:PIL.Image:Importing CurImagePlugin
-DEBUG:PIL.Image:Importing DcxImagePlugin
-DEBUG:PIL.Image:Importing DdsImagePlugin
-DEBUG:PIL.Image:Importing EpsImagePlugin
-DEBUG:PIL.Image:Importing FitsStubImagePlugin
-DEBUG:PIL.Image:Importing FliImagePlugin
-DEBUG:PIL.Image:Importing FpxImagePlugin
-DEBUG:PIL.Image:Importing FtexImagePlugin
-DEBUG:PIL.Image:Importing GbrImagePlugin
-DEBUG:PIL.Image:Importing GifImagePlugin
-DEBUG:PIL.Image:Importing GribStubImagePlugin
-DEBUG:PIL.Image:Importing Hdf5StubImagePlugin
-DEBUG:PIL.Image:Importing IcnsImagePlugin
-DEBUG:PIL.Image:Importing IcoImagePlugin
-DEBUG:PIL.Image:Importing ImImagePlugin
-DEBUG:PIL.Image:Importing ImtImagePlugin
-DEBUG:PIL.Image:Importing IptcImagePlugin
-DEBUG:PIL.Image:Importing JpegImagePlugin
-DEBUG:PIL.Image:Importing Jpeg2KImagePlugin
-DEBUG:PIL.Image:Importing McIdasImagePlugin
-DEBUG:PIL.Image:Importing MicImagePlugin
-DEBUG:PIL.Image:Importing MpegImagePlugin
-DEBUG:PIL.Image:Importing MpoImagePlugin
-DEBUG:PIL.Image:Importing MspImagePlugin
-DEBUG:PIL.Image:Importing PalmImagePlugin
-DEBUG:PIL.Image:Importing PcdImagePlugin
-DEBUG:PIL.Image:Importing PcxImagePlugin
-DEBUG:PIL.Image:Importing PdfImagePlugin
-DEBUG:PIL.Image:Importing PixarImagePlugin
-DEBUG:PIL.Image:Importing PngImagePlugin
-DEBUG:PIL.Image:Importing PpmImagePlugin
-DEBUG:PIL.Image:Importing PsdImagePlugin
-DEBUG:PIL.Image:Importing SgiImagePlugin
-DEBUG:PIL.Image:Importing SpiderImagePlugin
-DEBUG:PIL.Image:Importing SunImagePlugin
-DEBUG:PIL.Image:Importing TgaImagePlugin
-DEBUG:PIL.Image:Importing TiffImagePlugin
-DEBUG:PIL.Image:Importing WebPImagePlugin
-DEBUG:PIL.Image:Importing WmfImagePlugin
-DEBUG:PIL.Image:Importing XbmImagePlugin
-DEBUG:PIL.Image:Importing XpmImagePlugin
-DEBUG:PIL.Image:Importing XVThumbImagePlugin
-DEBUG:PIL.Image:Importing BlpImagePlugin
-DEBUG:PIL.Image:Importing BmpImagePlugin
-DEBUG:PIL.Image:Importing BufrStubImagePlugin
-DEBUG:PIL.Image:Importing CurImagePlugin
-DEBUG:PIL.Image:Importing DcxImagePlugin
-DEBUG:PIL.Image:Importing DdsImagePlugin
-DEBUG:PIL.Image:Importing EpsImagePlugin
-DEBUG:PIL.Image:Importing FitsStubImagePlugin
-DEBUG:PIL.Image:Importing FliImagePlugin
-DEBUG:PIL.Image:Importing FpxImagePlugin
-DEBUG:PIL.Image:Importing FtexImagePlugin
-DEBUG:PIL.Image:Importing GbrImagePlugin
-DEBUG:PIL.Image:Importing GifImagePlugin
-DEBUG:PIL.Image:Importing GribStubImagePlugin
-DEBUG:PIL.Image:Importing Hdf5StubImagePlugin
-DEBUG:PIL.Image:Importing IcnsImagePlugin
-DEBUG:PIL.Image:Importing IcoImagePlugin
-DEBUG:PIL.Image:Importing ImImagePlugin
-DEBUG:PIL.Image:Importing ImtImagePlugin
-DEBUG:PIL.Image:Importing IptcImagePlugin
-DEBUG:PIL.Image:Importing JpegImagePlugin
-DEBUG:PIL.Image:Importing Jpeg2KImagePlugin
-DEBUG:PIL.Image:Importing McIdasImagePlugin
-DEBUG:PIL.Image:Importing MicImagePlugin
-DEBUG:PIL.Image:Importing MpegImagePlugin
-DEBUG:PIL.Image:Importing MpoImagePlugin
-DEBUG:PIL.Image:Importing MspImagePlugin
-DEBUG:PIL.Image:Importing PalmImagePlugin
-DEBUG:PIL.Image:Importing PcdImagePlugin
-DEBUG:PIL.Image:Importing PcxImagePlugin
-DEBUG:PIL.Image:Importing PdfImagePlugin
-DEBUG:PIL.Image:Importing PixarImagePlugin
-DEBUG:PIL.Image:Importing PngImagePlugin
-DEBUG:PIL.Image:Importing PpmImagePlugin
-DEBUG:PIL.Image:Importing PsdImagePlugin
-DEBUG:PIL.Image:Importing SgiImagePlugin
-DEBUG:PIL.Image:Importing SpiderImagePlugin
-DEBUG:PIL.Image:Importing SunImagePlugin
-DEBUG:PIL.Image:Importing TgaImagePlugin
-DEBUG:PIL.Image:Importing TiffImagePlugin
-DEBUG:PIL.Image:Importing WebPImagePlugin
-DEBUG:PIL.Image:Importing WmfImagePlugin
-DEBUG:PIL.Image:Importing XbmImagePlugin
-DEBUG:PIL.Image:Importing XpmImagePlugin
-DEBUG:PIL.Image:Importing XVThumbImagePlugin
-DEBUG:root:save_into_doc :   
-DEBUG:root:save_into_doc :   creDoc
 DEBUG:PIL.Image:Importing BlpImagePlugin
 DEBUG:PIL.Image:Importing BmpImagePlugin
 DEBUG:PIL.Image:Importing BufrStubImagePlugin
@@ -452,6 +268,575 @@ DEBUG:PIL.Image:Importing WmfImagePlugin
 DEBUG:PIL.Image:Importing XbmImagePlugin
 DEBUG:PIL.Image:Importing XpmImagePlugin
 DEBUG:PIL.Image:Importing XVThumbImagePlugin
+WARNING:django.request:Not Found: /articleTranlate/articleTranlate/ArticleAddress/
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /
+DEBUG:PIL.Image:Importing BlpImagePlugin
+DEBUG:PIL.Image:Importing BmpImagePlugin
+DEBUG:PIL.Image:Importing BufrStubImagePlugin
+DEBUG:PIL.Image:Importing CurImagePlugin
+DEBUG:PIL.Image:Importing DcxImagePlugin
+DEBUG:PIL.Image:Importing DdsImagePlugin
+DEBUG:PIL.Image:Importing EpsImagePlugin
+DEBUG:PIL.Image:Importing FitsStubImagePlugin
+DEBUG:PIL.Image:Importing FliImagePlugin
+DEBUG:PIL.Image:Importing FpxImagePlugin
+DEBUG:PIL.Image:Importing FtexImagePlugin
+DEBUG:PIL.Image:Importing GbrImagePlugin
+DEBUG:PIL.Image:Importing GifImagePlugin
+DEBUG:PIL.Image:Importing GribStubImagePlugin
+DEBUG:PIL.Image:Importing Hdf5StubImagePlugin
+DEBUG:PIL.Image:Importing IcnsImagePlugin
+DEBUG:PIL.Image:Importing IcoImagePlugin
+DEBUG:PIL.Image:Importing ImImagePlugin
+DEBUG:PIL.Image:Importing ImtImagePlugin
+DEBUG:PIL.Image:Importing IptcImagePlugin
+DEBUG:PIL.Image:Importing JpegImagePlugin
+DEBUG:PIL.Image:Importing Jpeg2KImagePlugin
+DEBUG:PIL.Image:Importing McIdasImagePlugin
+DEBUG:PIL.Image:Importing MicImagePlugin
+DEBUG:PIL.Image:Importing MpegImagePlugin
+DEBUG:PIL.Image:Importing MpoImagePlugin
+DEBUG:PIL.Image:Importing MspImagePlugin
+DEBUG:PIL.Image:Importing PalmImagePlugin
+DEBUG:PIL.Image:Importing PcdImagePlugin
+DEBUG:PIL.Image:Importing PcxImagePlugin
+DEBUG:PIL.Image:Importing PdfImagePlugin
+DEBUG:PIL.Image:Importing PixarImagePlugin
+DEBUG:PIL.Image:Importing PngImagePlugin
+DEBUG:PIL.Image:Importing PpmImagePlugin
+DEBUG:PIL.Image:Importing PsdImagePlugin
+DEBUG:PIL.Image:Importing SgiImagePlugin
+DEBUG:PIL.Image:Importing SpiderImagePlugin
+DEBUG:PIL.Image:Importing SunImagePlugin
+DEBUG:PIL.Image:Importing TgaImagePlugin
+DEBUG:PIL.Image:Importing TiffImagePlugin
+DEBUG:PIL.Image:Importing WebPImagePlugin
+DEBUG:PIL.Image:Importing WmfImagePlugin
+DEBUG:PIL.Image:Importing XbmImagePlugin
+DEBUG:PIL.Image:Importing XpmImagePlugin
+DEBUG:PIL.Image:Importing XVThumbImagePlugin
+DEBUG:PIL.Image:Importing BlpImagePlugin
+DEBUG:PIL.Image:Importing BmpImagePlugin
+DEBUG:PIL.Image:Importing BufrStubImagePlugin
+DEBUG:PIL.Image:Importing CurImagePlugin
+DEBUG:PIL.Image:Importing DcxImagePlugin
+DEBUG:PIL.Image:Importing DdsImagePlugin
+DEBUG:PIL.Image:Importing EpsImagePlugin
+DEBUG:PIL.Image:Importing FitsStubImagePlugin
+DEBUG:PIL.Image:Importing FliImagePlugin
+DEBUG:PIL.Image:Importing FpxImagePlugin
+DEBUG:PIL.Image:Importing FtexImagePlugin
+DEBUG:PIL.Image:Importing GbrImagePlugin
+DEBUG:PIL.Image:Importing GifImagePlugin
+DEBUG:PIL.Image:Importing GribStubImagePlugin
+DEBUG:PIL.Image:Importing Hdf5StubImagePlugin
+DEBUG:PIL.Image:Importing IcnsImagePlugin
+DEBUG:PIL.Image:Importing IcoImagePlugin
+DEBUG:PIL.Image:Importing ImImagePlugin
+DEBUG:PIL.Image:Importing ImtImagePlugin
+DEBUG:PIL.Image:Importing IptcImagePlugin
+DEBUG:PIL.Image:Importing JpegImagePlugin
+DEBUG:PIL.Image:Importing Jpeg2KImagePlugin
+DEBUG:PIL.Image:Importing McIdasImagePlugin
+DEBUG:PIL.Image:Importing MicImagePlugin
+DEBUG:PIL.Image:Importing MpegImagePlugin
+DEBUG:PIL.Image:Importing MpoImagePlugin
+DEBUG:PIL.Image:Importing MspImagePlugin
+DEBUG:PIL.Image:Importing PalmImagePlugin
+DEBUG:PIL.Image:Importing PcdImagePlugin
+DEBUG:PIL.Image:Importing PcxImagePlugin
+DEBUG:PIL.Image:Importing PdfImagePlugin
+DEBUG:PIL.Image:Importing PixarImagePlugin
+DEBUG:PIL.Image:Importing PngImagePlugin
+DEBUG:PIL.Image:Importing PpmImagePlugin
+DEBUG:PIL.Image:Importing PsdImagePlugin
+DEBUG:PIL.Image:Importing SgiImagePlugin
+DEBUG:PIL.Image:Importing SpiderImagePlugin
+DEBUG:PIL.Image:Importing SunImagePlugin
+DEBUG:PIL.Image:Importing TgaImagePlugin
+DEBUG:PIL.Image:Importing TiffImagePlugin
+DEBUG:PIL.Image:Importing WebPImagePlugin
+DEBUG:PIL.Image:Importing WmfImagePlugin
+DEBUG:PIL.Image:Importing XbmImagePlugin
+DEBUG:PIL.Image:Importing XpmImagePlugin
+DEBUG:PIL.Image:Importing XVThumbImagePlugin
+DEBUG:PIL.Image:Importing BlpImagePlugin
+DEBUG:PIL.Image:Importing BmpImagePlugin
+DEBUG:PIL.Image:Importing BufrStubImagePlugin
+DEBUG:PIL.Image:Importing CurImagePlugin
+DEBUG:PIL.Image:Importing DcxImagePlugin
+DEBUG:PIL.Image:Importing DdsImagePlugin
+DEBUG:PIL.Image:Importing EpsImagePlugin
+DEBUG:PIL.Image:Importing FitsStubImagePlugin
+DEBUG:PIL.Image:Importing FliImagePlugin
+DEBUG:PIL.Image:Importing FpxImagePlugin
+DEBUG:PIL.Image:Importing FtexImagePlugin
+DEBUG:PIL.Image:Importing GbrImagePlugin
+DEBUG:PIL.Image:Importing GifImagePlugin
+DEBUG:PIL.Image:Importing GribStubImagePlugin
+DEBUG:PIL.Image:Importing Hdf5StubImagePlugin
+DEBUG:PIL.Image:Importing IcnsImagePlugin
+DEBUG:PIL.Image:Importing IcoImagePlugin
+DEBUG:PIL.Image:Importing ImImagePlugin
+DEBUG:PIL.Image:Importing ImtImagePlugin
+DEBUG:PIL.Image:Importing IptcImagePlugin
+DEBUG:PIL.Image:Importing JpegImagePlugin
+DEBUG:PIL.Image:Importing Jpeg2KImagePlugin
+DEBUG:PIL.Image:Importing McIdasImagePlugin
+DEBUG:PIL.Image:Importing MicImagePlugin
+DEBUG:PIL.Image:Importing MpegImagePlugin
+DEBUG:PIL.Image:Importing MpoImagePlugin
+DEBUG:PIL.Image:Importing MspImagePlugin
+DEBUG:PIL.Image:Importing PalmImagePlugin
+DEBUG:PIL.Image:Importing PcdImagePlugin
+DEBUG:PIL.Image:Importing PcxImagePlugin
+DEBUG:PIL.Image:Importing PdfImagePlugin
+DEBUG:PIL.Image:Importing PixarImagePlugin
+DEBUG:PIL.Image:Importing PngImagePlugin
+DEBUG:PIL.Image:Importing PpmImagePlugin
+DEBUG:PIL.Image:Importing PsdImagePlugin
+DEBUG:PIL.Image:Importing SgiImagePlugin
+DEBUG:PIL.Image:Importing SpiderImagePlugin
+DEBUG:PIL.Image:Importing SunImagePlugin
+DEBUG:PIL.Image:Importing TgaImagePlugin
+DEBUG:PIL.Image:Importing TiffImagePlugin
+DEBUG:PIL.Image:Importing WebPImagePlugin
+DEBUG:PIL.Image:Importing WmfImagePlugin
+DEBUG:PIL.Image:Importing XbmImagePlugin
+DEBUG:PIL.Image:Importing XpmImagePlugin
+DEBUG:PIL.Image:Importing XVThumbImagePlugin
+DEBUG:PIL.Image:Importing BlpImagePlugin
+DEBUG:PIL.Image:Importing BmpImagePlugin
+DEBUG:PIL.Image:Importing BufrStubImagePlugin
+DEBUG:PIL.Image:Importing CurImagePlugin
+DEBUG:PIL.Image:Importing DcxImagePlugin
+DEBUG:PIL.Image:Importing DdsImagePlugin
+DEBUG:PIL.Image:Importing EpsImagePlugin
+DEBUG:PIL.Image:Importing FitsStubImagePlugin
+DEBUG:PIL.Image:Importing FliImagePlugin
+DEBUG:PIL.Image:Importing FpxImagePlugin
+DEBUG:PIL.Image:Importing FtexImagePlugin
+DEBUG:PIL.Image:Importing GbrImagePlugin
+DEBUG:PIL.Image:Importing GifImagePlugin
+DEBUG:PIL.Image:Importing GribStubImagePlugin
+DEBUG:PIL.Image:Importing Hdf5StubImagePlugin
+DEBUG:PIL.Image:Importing IcnsImagePlugin
+DEBUG:PIL.Image:Importing IcoImagePlugin
+DEBUG:PIL.Image:Importing ImImagePlugin
+DEBUG:PIL.Image:Importing ImtImagePlugin
+DEBUG:PIL.Image:Importing IptcImagePlugin
+DEBUG:PIL.Image:Importing JpegImagePlugin
+DEBUG:PIL.Image:Importing Jpeg2KImagePlugin
+DEBUG:PIL.Image:Importing McIdasImagePlugin
+DEBUG:PIL.Image:Importing MicImagePlugin
+DEBUG:PIL.Image:Importing MpegImagePlugin
+DEBUG:PIL.Image:Importing MpoImagePlugin
+DEBUG:PIL.Image:Importing MspImagePlugin
+DEBUG:PIL.Image:Importing PalmImagePlugin
+DEBUG:PIL.Image:Importing PcdImagePlugin
+DEBUG:PIL.Image:Importing PcxImagePlugin
+DEBUG:PIL.Image:Importing PdfImagePlugin
+DEBUG:PIL.Image:Importing PixarImagePlugin
+DEBUG:PIL.Image:Importing PngImagePlugin
+DEBUG:PIL.Image:Importing PpmImagePlugin
+DEBUG:PIL.Image:Importing PsdImagePlugin
+DEBUG:PIL.Image:Importing SgiImagePlugin
+DEBUG:PIL.Image:Importing SpiderImagePlugin
+DEBUG:PIL.Image:Importing SunImagePlugin
+DEBUG:PIL.Image:Importing TgaImagePlugin
+DEBUG:PIL.Image:Importing TiffImagePlugin
+DEBUG:PIL.Image:Importing WebPImagePlugin
+DEBUG:PIL.Image:Importing WmfImagePlugin
+DEBUG:PIL.Image:Importing XbmImagePlugin
+DEBUG:PIL.Image:Importing XpmImagePlugin
+DEBUG:PIL.Image:Importing XVThumbImagePlugin
+WARNING:django.request:Not Found: /articleTranlate/articleTranlate/ArticleAddress/
+ERROR:django.request:Internal Server Error: /articleTranlate/
+Traceback (most recent call last):
+  File "/home/jty/.local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/home/jty/.local/lib/python3.6/site-packages/django/core/handlers/base.py", line 158, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/jty/.local/lib/python3.6/site-packages/django/core/handlers/base.py", line 156, in _get_response
+    response = response.render()
+  File "/home/jty/.local/lib/python3.6/site-packages/django/template/response.py", line 106, in render
+    self.content = self.rendered_content
+  File "/home/jty/.local/lib/python3.6/site-packages/django/template/response.py", line 83, in rendered_content
+    content = template.render(context, self._request)
+  File "/home/jty/.local/lib/python3.6/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/home/jty/.local/lib/python3.6/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+  File "/home/jty/.local/lib/python3.6/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "/home/jty/.local/lib/python3.6/site-packages/django/template/base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "/home/jty/.local/lib/python3.6/site-packages/django/template/base.py", line 910, in render_annotated
+    return self.render(context)
+  File "/home/jty/.local/lib/python3.6/site-packages/django/template/defaulttags.py", line 447, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/home/jty/.local/lib/python3.6/site-packages/django/urls/base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "/home/jty/.local/lib/python3.6/site-packages/django/urls/resolvers.py", line 636, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'get_one_word' not found. 'get_one_word' is not a valid view function or pattern name.
+DEBUG:PIL.Image:Importing BlpImagePlugin
+DEBUG:PIL.Image:Importing BmpImagePlugin
+DEBUG:PIL.Image:Importing BufrStubImagePlugin
+DEBUG:PIL.Image:Importing CurImagePlugin
+DEBUG:PIL.Image:Importing DcxImagePlugin
+DEBUG:PIL.Image:Importing DdsImagePlugin
+DEBUG:PIL.Image:Importing EpsImagePlugin
+DEBUG:PIL.Image:Importing FitsStubImagePlugin
+DEBUG:PIL.Image:Importing FliImagePlugin
+DEBUG:PIL.Image:Importing FpxImagePlugin
+DEBUG:PIL.Image:Importing FtexImagePlugin
+DEBUG:PIL.Image:Importing GbrImagePlugin
+DEBUG:PIL.Image:Importing GifImagePlugin
+DEBUG:PIL.Image:Importing GribStubImagePlugin
+DEBUG:PIL.Image:Importing Hdf5StubImagePlugin
+DEBUG:PIL.Image:Importing IcnsImagePlugin
+DEBUG:PIL.Image:Importing IcoImagePlugin
+DEBUG:PIL.Image:Importing ImImagePlugin
+DEBUG:PIL.Image:Importing ImtImagePlugin
+DEBUG:PIL.Image:Importing IptcImagePlugin
+DEBUG:PIL.Image:Importing JpegImagePlugin
+DEBUG:PIL.Image:Importing Jpeg2KImagePlugin
+DEBUG:PIL.Image:Importing McIdasImagePlugin
+DEBUG:PIL.Image:Importing MicImagePlugin
+DEBUG:PIL.Image:Importing MpegImagePlugin
+DEBUG:PIL.Image:Importing MpoImagePlugin
+DEBUG:PIL.Image:Importing MspImagePlugin
+DEBUG:PIL.Image:Importing PalmImagePlugin
+DEBUG:PIL.Image:Importing PcdImagePlugin
+DEBUG:PIL.Image:Importing PcxImagePlugin
+DEBUG:PIL.Image:Importing PdfImagePlugin
+DEBUG:PIL.Image:Importing PixarImagePlugin
+DEBUG:PIL.Image:Importing PngImagePlugin
+DEBUG:PIL.Image:Importing PpmImagePlugin
+DEBUG:PIL.Image:Importing PsdImagePlugin
+DEBUG:PIL.Image:Importing SgiImagePlugin
+DEBUG:PIL.Image:Importing SpiderImagePlugin
+DEBUG:PIL.Image:Importing SunImagePlugin
+DEBUG:PIL.Image:Importing TgaImagePlugin
+DEBUG:PIL.Image:Importing TiffImagePlugin
+DEBUG:PIL.Image:Importing WebPImagePlugin
+DEBUG:PIL.Image:Importing WmfImagePlugin
+DEBUG:PIL.Image:Importing XbmImagePlugin
+DEBUG:PIL.Image:Importing XpmImagePlugin
+DEBUG:PIL.Image:Importing XVThumbImagePlugin
+DEBUG:PIL.Image:Importing BlpImagePlugin
+DEBUG:PIL.Image:Importing BmpImagePlugin
+DEBUG:PIL.Image:Importing BufrStubImagePlugin
+DEBUG:PIL.Image:Importing CurImagePlugin
+DEBUG:PIL.Image:Importing DcxImagePlugin
+DEBUG:PIL.Image:Importing DdsImagePlugin
+DEBUG:PIL.Image:Importing EpsImagePlugin
+DEBUG:PIL.Image:Importing FitsStubImagePlugin
+DEBUG:PIL.Image:Importing FliImagePlugin
+DEBUG:PIL.Image:Importing FpxImagePlugin
+DEBUG:PIL.Image:Importing FtexImagePlugin
+DEBUG:PIL.Image:Importing GbrImagePlugin
+DEBUG:PIL.Image:Importing GifImagePlugin
+DEBUG:PIL.Image:Importing GribStubImagePlugin
+DEBUG:PIL.Image:Importing Hdf5StubImagePlugin
+DEBUG:PIL.Image:Importing IcnsImagePlugin
+DEBUG:PIL.Image:Importing IcoImagePlugin
+DEBUG:PIL.Image:Importing ImImagePlugin
+DEBUG:PIL.Image:Importing ImtImagePlugin
+DEBUG:PIL.Image:Importing IptcImagePlugin
+DEBUG:PIL.Image:Importing JpegImagePlugin
+DEBUG:PIL.Image:Importing Jpeg2KImagePlugin
+DEBUG:PIL.Image:Importing McIdasImagePlugin
+DEBUG:PIL.Image:Importing MicImagePlugin
+DEBUG:PIL.Image:Importing MpegImagePlugin
+DEBUG:PIL.Image:Importing MpoImagePlugin
+DEBUG:PIL.Image:Importing MspImagePlugin
+DEBUG:PIL.Image:Importing PalmImagePlugin
+DEBUG:PIL.Image:Importing PcdImagePlugin
+DEBUG:PIL.Image:Importing PcxImagePlugin
+DEBUG:PIL.Image:Importing PdfImagePlugin
+DEBUG:PIL.Image:Importing PixarImagePlugin
+DEBUG:PIL.Image:Importing PngImagePlugin
+DEBUG:PIL.Image:Importing PpmImagePlugin
+DEBUG:PIL.Image:Importing PsdImagePlugin
+DEBUG:PIL.Image:Importing SgiImagePlugin
+DEBUG:PIL.Image:Importing SpiderImagePlugin
+DEBUG:PIL.Image:Importing SunImagePlugin
+DEBUG:PIL.Image:Importing TgaImagePlugin
+DEBUG:PIL.Image:Importing TiffImagePlugin
+DEBUG:PIL.Image:Importing WebPImagePlugin
+DEBUG:PIL.Image:Importing WmfImagePlugin
+DEBUG:PIL.Image:Importing XbmImagePlugin
+DEBUG:PIL.Image:Importing XpmImagePlugin
+DEBUG:PIL.Image:Importing XVThumbImagePlugin
+DEBUG:PIL.Image:Importing BlpImagePlugin
+DEBUG:PIL.Image:Importing BmpImagePlugin
+DEBUG:PIL.Image:Importing BufrStubImagePlugin
+DEBUG:PIL.Image:Importing CurImagePlugin
+DEBUG:PIL.Image:Importing DcxImagePlugin
+DEBUG:PIL.Image:Importing DdsImagePlugin
+DEBUG:PIL.Image:Importing EpsImagePlugin
+DEBUG:PIL.Image:Importing FitsStubImagePlugin
+DEBUG:PIL.Image:Importing FliImagePlugin
+DEBUG:PIL.Image:Importing FpxImagePlugin
+DEBUG:PIL.Image:Importing FtexImagePlugin
+DEBUG:PIL.Image:Importing GbrImagePlugin
+DEBUG:PIL.Image:Importing GifImagePlugin
+DEBUG:PIL.Image:Importing GribStubImagePlugin
+DEBUG:PIL.Image:Importing Hdf5StubImagePlugin
+DEBUG:PIL.Image:Importing IcnsImagePlugin
+DEBUG:PIL.Image:Importing IcoImagePlugin
+DEBUG:PIL.Image:Importing ImImagePlugin
+DEBUG:PIL.Image:Importing ImtImagePlugin
+DEBUG:PIL.Image:Importing IptcImagePlugin
+DEBUG:PIL.Image:Importing JpegImagePlugin
+DEBUG:PIL.Image:Importing Jpeg2KImagePlugin
+DEBUG:PIL.Image:Importing McIdasImagePlugin
+DEBUG:PIL.Image:Importing MicImagePlugin
+DEBUG:PIL.Image:Importing MpegImagePlugin
+DEBUG:PIL.Image:Importing MpoImagePlugin
+DEBUG:PIL.Image:Importing MspImagePlugin
+DEBUG:PIL.Image:Importing PalmImagePlugin
+DEBUG:PIL.Image:Importing PcdImagePlugin
+DEBUG:PIL.Image:Importing PcxImagePlugin
+DEBUG:PIL.Image:Importing PdfImagePlugin
+DEBUG:PIL.Image:Importing PixarImagePlugin
+DEBUG:PIL.Image:Importing PngImagePlugin
+DEBUG:PIL.Image:Importing PpmImagePlugin
+DEBUG:PIL.Image:Importing PsdImagePlugin
+DEBUG:PIL.Image:Importing SgiImagePlugin
+DEBUG:PIL.Image:Importing SpiderImagePlugin
+DEBUG:PIL.Image:Importing SunImagePlugin
+DEBUG:PIL.Image:Importing TgaImagePlugin
+DEBUG:PIL.Image:Importing TiffImagePlugin
+DEBUG:PIL.Image:Importing WebPImagePlugin
+DEBUG:PIL.Image:Importing WmfImagePlugin
+DEBUG:PIL.Image:Importing XbmImagePlugin
+DEBUG:PIL.Image:Importing XpmImagePlugin
+DEBUG:PIL.Image:Importing XVThumbImagePlugin
+ERROR:django.request:Internal Server Error: /articleTranlate/
+Traceback (most recent call last):
+  File "/home/jty/.local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/home/jty/.local/lib/python3.6/site-packages/django/core/handlers/base.py", line 158, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/jty/.local/lib/python3.6/site-packages/django/core/handlers/base.py", line 156, in _get_response
+    response = response.render()
+  File "/home/jty/.local/lib/python3.6/site-packages/django/template/response.py", line 106, in render
+    self.content = self.rendered_content
+  File "/home/jty/.local/lib/python3.6/site-packages/django/template/response.py", line 83, in rendered_content
+    content = template.render(context, self._request)
+  File "/home/jty/.local/lib/python3.6/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/home/jty/.local/lib/python3.6/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+  File "/home/jty/.local/lib/python3.6/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "/home/jty/.local/lib/python3.6/site-packages/django/template/base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "/home/jty/.local/lib/python3.6/site-packages/django/template/base.py", line 910, in render_annotated
+    return self.render(context)
+  File "/home/jty/.local/lib/python3.6/site-packages/django/template/defaulttags.py", line 447, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/home/jty/.local/lib/python3.6/site-packages/django/urls/base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "/home/jty/.local/lib/python3.6/site-packages/django/urls/resolvers.py", line 636, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'ajax_list' not found. 'ajax_list' is not a valid view function or pattern name.
+DEBUG:PIL.Image:Importing BlpImagePlugin
+DEBUG:PIL.Image:Importing BmpImagePlugin
+DEBUG:PIL.Image:Importing BufrStubImagePlugin
+DEBUG:PIL.Image:Importing CurImagePlugin
+DEBUG:PIL.Image:Importing DcxImagePlugin
+DEBUG:PIL.Image:Importing DdsImagePlugin
+DEBUG:PIL.Image:Importing EpsImagePlugin
+DEBUG:PIL.Image:Importing FitsStubImagePlugin
+DEBUG:PIL.Image:Importing FliImagePlugin
+DEBUG:PIL.Image:Importing FpxImagePlugin
+DEBUG:PIL.Image:Importing FtexImagePlugin
+DEBUG:PIL.Image:Importing GbrImagePlugin
+DEBUG:PIL.Image:Importing GifImagePlugin
+DEBUG:PIL.Image:Importing GribStubImagePlugin
+DEBUG:PIL.Image:Importing Hdf5StubImagePlugin
+DEBUG:PIL.Image:Importing IcnsImagePlugin
+DEBUG:PIL.Image:Importing IcoImagePlugin
+DEBUG:PIL.Image:Importing ImImagePlugin
+DEBUG:PIL.Image:Importing ImtImagePlugin
+DEBUG:PIL.Image:Importing IptcImagePlugin
+DEBUG:PIL.Image:Importing JpegImagePlugin
+DEBUG:PIL.Image:Importing Jpeg2KImagePlugin
+DEBUG:PIL.Image:Importing McIdasImagePlugin
+DEBUG:PIL.Image:Importing MicImagePlugin
+DEBUG:PIL.Image:Importing MpegImagePlugin
+DEBUG:PIL.Image:Importing MpoImagePlugin
+DEBUG:PIL.Image:Importing MspImagePlugin
+DEBUG:PIL.Image:Importing PalmImagePlugin
+DEBUG:PIL.Image:Importing PcdImagePlugin
+DEBUG:PIL.Image:Importing PcxImagePlugin
+DEBUG:PIL.Image:Importing PdfImagePlugin
+DEBUG:PIL.Image:Importing PixarImagePlugin
+DEBUG:PIL.Image:Importing PngImagePlugin
+DEBUG:PIL.Image:Importing PpmImagePlugin
+DEBUG:PIL.Image:Importing PsdImagePlugin
+DEBUG:PIL.Image:Importing SgiImagePlugin
+DEBUG:PIL.Image:Importing SpiderImagePlugin
+DEBUG:PIL.Image:Importing SunImagePlugin
+DEBUG:PIL.Image:Importing TgaImagePlugin
+DEBUG:PIL.Image:Importing TiffImagePlugin
+DEBUG:PIL.Image:Importing WebPImagePlugin
+DEBUG:PIL.Image:Importing WmfImagePlugin
+DEBUG:PIL.Image:Importing XbmImagePlugin
+DEBUG:PIL.Image:Importing XpmImagePlugin
+DEBUG:PIL.Image:Importing XVThumbImagePlugin
+DEBUG:PIL.Image:Importing BlpImagePlugin
+DEBUG:PIL.Image:Importing BmpImagePlugin
+DEBUG:PIL.Image:Importing BufrStubImagePlugin
+DEBUG:PIL.Image:Importing CurImagePlugin
+DEBUG:PIL.Image:Importing DcxImagePlugin
+DEBUG:PIL.Image:Importing DdsImagePlugin
+DEBUG:PIL.Image:Importing EpsImagePlugin
+DEBUG:PIL.Image:Importing FitsStubImagePlugin
+DEBUG:PIL.Image:Importing FliImagePlugin
+DEBUG:PIL.Image:Importing FpxImagePlugin
+DEBUG:PIL.Image:Importing FtexImagePlugin
+DEBUG:PIL.Image:Importing GbrImagePlugin
+DEBUG:PIL.Image:Importing GifImagePlugin
+DEBUG:PIL.Image:Importing GribStubImagePlugin
+DEBUG:PIL.Image:Importing Hdf5StubImagePlugin
+DEBUG:PIL.Image:Importing IcnsImagePlugin
+DEBUG:PIL.Image:Importing IcoImagePlugin
+DEBUG:PIL.Image:Importing ImImagePlugin
+DEBUG:PIL.Image:Importing ImtImagePlugin
+DEBUG:PIL.Image:Importing IptcImagePlugin
+DEBUG:PIL.Image:Importing JpegImagePlugin
+DEBUG:PIL.Image:Importing Jpeg2KImagePlugin
+DEBUG:PIL.Image:Importing McIdasImagePlugin
+DEBUG:PIL.Image:Importing MicImagePlugin
+DEBUG:PIL.Image:Importing MpegImagePlugin
+DEBUG:PIL.Image:Importing MpoImagePlugin
+DEBUG:PIL.Image:Importing MspImagePlugin
+DEBUG:PIL.Image:Importing PalmImagePlugin
+DEBUG:PIL.Image:Importing PcdImagePlugin
+DEBUG:PIL.Image:Importing PcxImagePlugin
+DEBUG:PIL.Image:Importing PdfImagePlugin
+DEBUG:PIL.Image:Importing PixarImagePlugin
+DEBUG:PIL.Image:Importing PngImagePlugin
+DEBUG:PIL.Image:Importing PpmImagePlugin
+DEBUG:PIL.Image:Importing PsdImagePlugin
+DEBUG:PIL.Image:Importing SgiImagePlugin
+DEBUG:PIL.Image:Importing SpiderImagePlugin
+DEBUG:PIL.Image:Importing SunImagePlugin
+DEBUG:PIL.Image:Importing TgaImagePlugin
+DEBUG:PIL.Image:Importing TiffImagePlugin
+DEBUG:PIL.Image:Importing WebPImagePlugin
+DEBUG:PIL.Image:Importing WmfImagePlugin
+DEBUG:PIL.Image:Importing XbmImagePlugin
+DEBUG:PIL.Image:Importing XpmImagePlugin
+DEBUG:PIL.Image:Importing XVThumbImagePlugin
+DEBUG:PIL.Image:Importing BlpImagePlugin
+DEBUG:PIL.Image:Importing BmpImagePlugin
+DEBUG:PIL.Image:Importing BufrStubImagePlugin
+DEBUG:PIL.Image:Importing CurImagePlugin
+DEBUG:PIL.Image:Importing DcxImagePlugin
+DEBUG:PIL.Image:Importing DdsImagePlugin
+DEBUG:PIL.Image:Importing EpsImagePlugin
+DEBUG:PIL.Image:Importing FitsStubImagePlugin
+DEBUG:PIL.Image:Importing FliImagePlugin
+DEBUG:PIL.Image:Importing FpxImagePlugin
+DEBUG:PIL.Image:Importing FtexImagePlugin
+DEBUG:PIL.Image:Importing GbrImagePlugin
+DEBUG:PIL.Image:Importing GifImagePlugin
+DEBUG:PIL.Image:Importing GribStubImagePlugin
+DEBUG:PIL.Image:Importing Hdf5StubImagePlugin
+DEBUG:PIL.Image:Importing IcnsImagePlugin
+DEBUG:PIL.Image:Importing IcoImagePlugin
+DEBUG:PIL.Image:Importing ImImagePlugin
+DEBUG:PIL.Image:Importing ImtImagePlugin
+DEBUG:PIL.Image:Importing IptcImagePlugin
+DEBUG:PIL.Image:Importing JpegImagePlugin
+DEBUG:PIL.Image:Importing Jpeg2KImagePlugin
+DEBUG:PIL.Image:Importing McIdasImagePlugin
+DEBUG:PIL.Image:Importing MicImagePlugin
+DEBUG:PIL.Image:Importing MpegImagePlugin
+DEBUG:PIL.Image:Importing MpoImagePlugin
+DEBUG:PIL.Image:Importing MspImagePlugin
+DEBUG:PIL.Image:Importing PalmImagePlugin
+DEBUG:PIL.Image:Importing PcdImagePlugin
+DEBUG:PIL.Image:Importing PcxImagePlugin
+DEBUG:PIL.Image:Importing PdfImagePlugin
+DEBUG:PIL.Image:Importing PixarImagePlugin
+DEBUG:PIL.Image:Importing PngImagePlugin
+DEBUG:PIL.Image:Importing PpmImagePlugin
+DEBUG:PIL.Image:Importing PsdImagePlugin
+DEBUG:PIL.Image:Importing SgiImagePlugin
+DEBUG:PIL.Image:Importing SpiderImagePlugin
+DEBUG:PIL.Image:Importing SunImagePlugin
+DEBUG:PIL.Image:Importing TgaImagePlugin
+DEBUG:PIL.Image:Importing TiffImagePlugin
+DEBUG:PIL.Image:Importing WebPImagePlugin
+DEBUG:PIL.Image:Importing WmfImagePlugin
+DEBUG:PIL.Image:Importing XbmImagePlugin
+DEBUG:PIL.Image:Importing XpmImagePlugin
+DEBUG:PIL.Image:Importing XVThumbImagePlugin
+ERROR:django.request:Internal Server Error: /articleTranlate/
+Traceback (most recent call last):
+  File "/home/jty/.local/lib/python3.6/site-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "/home/jty/.local/lib/python3.6/site-packages/django/db/backends/sqlite3/base.py", line 303, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: no such table: articleTranlate_translte_str
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/jty/.local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/home/jty/.local/lib/python3.6/site-packages/django/core/handlers/base.py", line 158, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/jty/.local/lib/python3.6/site-packages/django/core/handlers/base.py", line 156, in _get_response
+    response = response.render()
+  File "/home/jty/.local/lib/python3.6/site-packages/django/template/response.py", line 106, in render
+    self.content = self.rendered_content
+  File "/home/jty/.local/lib/python3.6/site-packages/django/template/response.py", line 83, in rendered_content
+    content = template.render(context, self._request)
+  File "/home/jty/.local/lib/python3.6/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/home/jty/.local/lib/python3.6/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+  File "/home/jty/.local/lib/python3.6/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "/home/jty/.local/lib/python3.6/site-packages/django/template/base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "/home/jty/.local/lib/python3.6/site-packages/django/template/base.py", line 910, in render_annotated
+    return self.render(context)
+  File "/home/jty/.local/lib/python3.6/site-packages/django/template/defaulttags.py", line 313, in render
+    if match:
+  File "/home/jty/.local/lib/python3.6/site-packages/django/db/models/query.py", line 276, in __bool__
+    self._fetch_all()
+  File "/home/jty/.local/lib/python3.6/site-packages/django/db/models/query.py", line 1179, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/home/jty/.local/lib/python3.6/site-packages/django/db/models/query.py", line 53, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size)
+  File "/home/jty/.local/lib/python3.6/site-packages/django/db/models/sql/compiler.py", line 1068, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/jty/.local/lib/python3.6/site-packages/django/db/backends/utils.py", line 100, in execute
+    return super().execute(sql, params)
+  File "/home/jty/.local/lib/python3.6/site-packages/django/db/backends/utils.py", line 68, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/home/jty/.local/lib/python3.6/site-packages/django/db/backends/utils.py", line 77, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/home/jty/.local/lib/python3.6/site-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "/home/jty/.local/lib/python3.6/site-packages/django/db/utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/jty/.local/lib/python3.6/site-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "/home/jty/.local/lib/python3.6/site-packages/django/db/backends/sqlite3/base.py", line 303, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: no such table: articleTranlate_translte_str
 DEBUG:PIL.Image:Importing BlpImagePlugin
 DEBUG:PIL.Image:Importing BmpImagePlugin
 DEBUG:PIL.Image:Importing BufrStubImagePlugin
@@ -767,6 +1152,7 @@ DEBUG:PIL.Image:Importing WmfImagePlugin
 DEBUG:PIL.Image:Importing XbmImagePlugin
 DEBUG:PIL.Image:Importing XpmImagePlugin
 DEBUG:PIL.Image:Importing XVThumbImagePlugin
+WARNING:django.request:Not Found: /articleTranlate/articleTranlate/ArticleAddress/
 DEBUG:PIL.Image:Importing BlpImagePlugin
 DEBUG:PIL.Image:Importing BmpImagePlugin
 DEBUG:PIL.Image:Importing BufrStubImagePlugin
@@ -1037,96 +1423,447 @@ DEBUG:PIL.Image:Importing WmfImagePlugin
 DEBUG:PIL.Image:Importing XbmImagePlugin
 DEBUG:PIL.Image:Importing XpmImagePlugin
 DEBUG:PIL.Image:Importing XVThumbImagePlugin
-DEBUG:PIL.Image:Importing BlpImagePlugin
-DEBUG:PIL.Image:Importing BmpImagePlugin
-DEBUG:PIL.Image:Importing BufrStubImagePlugin
-DEBUG:PIL.Image:Importing CurImagePlugin
-DEBUG:PIL.Image:Importing DcxImagePlugin
-DEBUG:PIL.Image:Importing DdsImagePlugin
-DEBUG:PIL.Image:Importing EpsImagePlugin
-DEBUG:PIL.Image:Importing FitsStubImagePlugin
-DEBUG:PIL.Image:Importing FliImagePlugin
-DEBUG:PIL.Image:Importing FpxImagePlugin
-DEBUG:PIL.Image:Importing FtexImagePlugin
-DEBUG:PIL.Image:Importing GbrImagePlugin
-DEBUG:PIL.Image:Importing GifImagePlugin
-DEBUG:PIL.Image:Importing GribStubImagePlugin
-DEBUG:PIL.Image:Importing Hdf5StubImagePlugin
-DEBUG:PIL.Image:Importing IcnsImagePlugin
-DEBUG:PIL.Image:Importing IcoImagePlugin
-DEBUG:PIL.Image:Importing ImImagePlugin
-DEBUG:PIL.Image:Importing ImtImagePlugin
-DEBUG:PIL.Image:Importing IptcImagePlugin
-DEBUG:PIL.Image:Importing JpegImagePlugin
-DEBUG:PIL.Image:Importing Jpeg2KImagePlugin
-DEBUG:PIL.Image:Importing McIdasImagePlugin
-DEBUG:PIL.Image:Importing MicImagePlugin
-DEBUG:PIL.Image:Importing MpegImagePlugin
-DEBUG:PIL.Image:Importing MpoImagePlugin
-DEBUG:PIL.Image:Importing MspImagePlugin
-DEBUG:PIL.Image:Importing PalmImagePlugin
-DEBUG:PIL.Image:Importing PcdImagePlugin
-DEBUG:PIL.Image:Importing PcxImagePlugin
-DEBUG:PIL.Image:Importing PdfImagePlugin
-DEBUG:PIL.Image:Importing PixarImagePlugin
-DEBUG:PIL.Image:Importing PngImagePlugin
-DEBUG:PIL.Image:Importing PpmImagePlugin
-DEBUG:PIL.Image:Importing PsdImagePlugin
-DEBUG:PIL.Image:Importing SgiImagePlugin
-DEBUG:PIL.Image:Importing SpiderImagePlugin
-DEBUG:PIL.Image:Importing SunImagePlugin
-DEBUG:PIL.Image:Importing TgaImagePlugin
-DEBUG:PIL.Image:Importing TiffImagePlugin
-DEBUG:PIL.Image:Importing WebPImagePlugin
-DEBUG:PIL.Image:Importing WmfImagePlugin
-DEBUG:PIL.Image:Importing XbmImagePlugin
-DEBUG:PIL.Image:Importing XpmImagePlugin
-DEBUG:PIL.Image:Importing XVThumbImagePlugin
-DEBUG:PIL.Image:Importing BlpImagePlugin
-DEBUG:PIL.Image:Importing BmpImagePlugin
-DEBUG:PIL.Image:Importing BufrStubImagePlugin
-DEBUG:PIL.Image:Importing CurImagePlugin
-DEBUG:PIL.Image:Importing DcxImagePlugin
-DEBUG:PIL.Image:Importing DdsImagePlugin
-DEBUG:PIL.Image:Importing EpsImagePlugin
-DEBUG:PIL.Image:Importing FitsStubImagePlugin
-DEBUG:PIL.Image:Importing FliImagePlugin
-DEBUG:PIL.Image:Importing FpxImagePlugin
-DEBUG:PIL.Image:Importing FtexImagePlugin
-DEBUG:PIL.Image:Importing GbrImagePlugin
-DEBUG:PIL.Image:Importing GifImagePlugin
-DEBUG:PIL.Image:Importing GribStubImagePlugin
-DEBUG:PIL.Image:Importing Hdf5StubImagePlugin
-DEBUG:PIL.Image:Importing IcnsImagePlugin
-DEBUG:PIL.Image:Importing IcoImagePlugin
-DEBUG:PIL.Image:Importing ImImagePlugin
-DEBUG:PIL.Image:Importing ImtImagePlugin
-DEBUG:PIL.Image:Importing IptcImagePlugin
-DEBUG:PIL.Image:Importing JpegImagePlugin
-DEBUG:PIL.Image:Importing Jpeg2KImagePlugin
-DEBUG:PIL.Image:Importing McIdasImagePlugin
-DEBUG:PIL.Image:Importing MicImagePlugin
-DEBUG:PIL.Image:Importing MpegImagePlugin
-DEBUG:PIL.Image:Importing MpoImagePlugin
-DEBUG:PIL.Image:Importing MspImagePlugin
-DEBUG:PIL.Image:Importing PalmImagePlugin
-DEBUG:PIL.Image:Importing PcdImagePlugin
-DEBUG:PIL.Image:Importing PcxImagePlugin
-DEBUG:PIL.Image:Importing PdfImagePlugin
-DEBUG:PIL.Image:Importing PixarImagePlugin
-DEBUG:PIL.Image:Importing PngImagePlugin
-DEBUG:PIL.Image:Importing PpmImagePlugin
-DEBUG:PIL.Image:Importing PsdImagePlugin
-DEBUG:PIL.Image:Importing SgiImagePlugin
-DEBUG:PIL.Image:Importing SpiderImagePlugin
-DEBUG:PIL.Image:Importing SunImagePlugin
-DEBUG:PIL.Image:Importing TgaImagePlugin
-DEBUG:PIL.Image:Importing TiffImagePlugin
-DEBUG:PIL.Image:Importing WebPImagePlugin
-DEBUG:PIL.Image:Importing WmfImagePlugin
-DEBUG:PIL.Image:Importing XbmImagePlugin
-DEBUG:PIL.Image:Importing XpmImagePlugin
-DEBUG:PIL.Image:Importing XVThumbImagePlugin
+DEBUG:root:getArticleAddress : 
+DEBUG:root:getArticleAddress : Exception
+DEBUG:root:getArticleAddress : getArticleAddress is: none
+DEBUG:root:getArticleAddress : 
+DEBUG:root:getArticleAddress : Exception
+DEBUG:root:getArticleAddress : getArticleAddress is: none
+DEBUG:root:getArticleAddress : 
+DEBUG:root:getArticleAddress : getArticleAddress is:/home/jty/下载/tmp/1/投稿msg/www.d1net.com/单号-201806-19/Shadow IT reconsidered: The case for losing control
+DEBUG:root:getArticleAddress : getArticleAddress can be open /home/jty/下载/tmp/1/投稿msg/www.d1net.com/单号-201806-19/Shadow IT reconsidered: The case for losing control
+DEBUG:root:获取的段落是:0.0
+Shadow IT reconsidered: The case for losing control
+DEBUG:root:获取的段落是:1.0
+Line of business users are provisioning technology by doing an end run around IT. But this loss of complete control of the IT estate has its benefits — for the CIO and the company as a whole.
+DEBUG:root:获取的段落是:2.0
+Employees who go off the reservation to acquire software outside official channels can provoke consternation and alarm in CIOs. But when the digital dust settles, IT organizations and the staff they serve often emerge from these events in a stronger relationship and with improved management.
+DEBUG:root:获取的段落是:3.0
+Cloud-based application delivery and subscription business models from vendors create the perfect conditions for the natives to run wild — and for IT to react proportionally. When applications are provisioned outside official channels, the company’s security risks can increase, application integration opportunities are overlooked, siloed data diminishes analytics opportunities, the company can’t leverage pricing bargains for volume cloud use and tax benefits from the operating expenditures (OPEX) are missed because the payments aren’t rolled up into company financials.
+DEBUG:root:获取的段落是:4.0
+In the context of these missed opportunities, the response from IT can take several forms. “I’ve seen budgets threatened when the shadow IT was discovered,” says Steve Rodda, chief product officer for Cherwell, an IT service management software vendor, though he adds that the typical response tends to be more measured.
+DEBUG:root:获取的段落是:5.0
+Rodda witnessed a consumer electronics manufacturer customer establish an entire business unit just to get its arms around runaway cloud application deployments. “I think you’re going to see more of this in the future,” says Rodda.  “The fact that the company had to establish an entire division in order to corral this (phenomenon) kind of surprised me.”
+DEBUG:root:获取的段落是:6.0
+Out of this organizational arrangement, the company constructed an IT services catalog through which employees could requisition applications. Not the most innovative idea given its adoption for many years. Yet it might have never been built in the absence of the shadow IT phenomenon. The services catalog was an attempt to strike a healthy balance between the need for software acquisition control while meeting the needs of front line employees more responsively. “The shadow IT issue has focused the IT departments more on how IT could add value across the business. Shadow IT has elevated their roles in some companies.”
+DEBUG:root:获取的段落是:7.0
+The examples that follow demonstrate the positive outcomes shadow IT can deliver to the IT organization, from small but meaningful gains to ambitious organizational reengineering efforts.
+DEBUG:root:获取的段落是:8.0
+A technology response brings incremental improvements
+DEBUG:root:获取的段落是:9.0
+The shadow IT reality has caused PPG, a $15 billion manufacturer of paints and coating products with operations in 70 countries, to double down on centralized, disciplined management that halts shadow IT before it evolves very far into the company.
+DEBUG:root:获取的段落是:10.0
+PPG deploys two monitoring tools, each offering a unique perspective into shadow IT occurrences. One generates reports and dashboards of company credit card spend. Chris Caruso, vice president of information technology and functional CIO at PPG, says that this approach has been effective in controlling shadow IT. The other is a resource management application, Planview, that provides insights into any possible IT staff involvement in shadow IT projects across the global organization. “Any project that anyone within the IT organization works on a global basis is in this system. This is why we become aware of unapproved technologies,” says Caruso. If staff documents work on any application that is not officially sanctioned, it will show up here. “The way we put it to technology staff is that if you are working on any project involving unapproved technology, you weren’t working for the IT organization.”
+DEBUG:root:获取的段落是:11.0
+Once the shadow IT has been identified, Caruso says PPG has put in place a formal process to redirect the expression of software need through formal channels, involving building a business case for the software and directing applicants to an approved list of vendors. “Shadow IT can present opportunities if there are gaps in our portfolio of applications,” says Caruso.
+DEBUG:root:获取的段落是:12.0
+An investigation into the IT staff’s work on the unapproved technology flagged in Planview will initiate the same redirection to the formal technology approval process used when shadow IT is introduced from the business side. “We’ve addressed three key issues around shadow IT from a people, process and technology perspective that adds additional discipline into how we run the IT organization,” Caruso says. “We know what projects people are working on with what technology and we’ve never been able to do this before.”
+DEBUG:root:获取的段落是:13.0
+Caruso adds that getting a handle on shadow IT offers the benefit of reinforcing one of most important mandates of his IT organization. “When people are spending money on shadow IT, it’s not necessarily where PPG should spend its IT investment. If you can channel those expenditures into something more strategic you might get a better return for the organization.”
+DEBUG:root:获取的段落是:14.0
+IT beefs up its skill set
+DEBUG:root:获取的段落是:15.0
+Eliot Arnold, co-founder and principal consultant at Crunch Data offers this example of shadow IT causing profound improvements in IT management. He was formerly an executive responsible for marketing analytics at electronics distributor Arrow Electronics. Unbeknownst to the IT organization, Arnold took it upon himself to copy and deploy the company’s databases on a server he procured and installed under his desk using the company credit card. He bought and configured a visualization tool as well as the software to prep data for deep analysis.
+DEBUG:root:获取的段落是:16.0
+It sounds like a shadow IT worst-case scenario, but decision making around deep marketing insights generated $45 million in revenue, Arnold said.  And his shadow IT operation became a turnkey service bureau in which he offered analytical insights to the rest of Arrow and charged for the capability.
+DEBUG:root:获取的段落是:17.0
+“IT’s first reaction was like I stole money from the mob,” Arnold says. But the IT organization conceded that Arnold’s shadow IT example crystallized the need for it to upgrade its capabilities to include master data management and data quality management, critical disciplines for companies that view data as an asset, but they were barely given any attention at Arrow until Arnold forced the issue.
+DEBUG:root:获取的段落是:18.0
+“Shadow IT can be a real catalyst for innovation,” says Arnold.
+DEBUG:root:获取的段落是:19.0
+An independent, departmental IT organization emerges
+DEBUG:root:获取的段落是:20.0
+Arguably the most profound impact to IT organizations from the existence of shadow IT is an organizational overhaul. About seven years ago, the marketing department of telecom provider CenturyLink, under the supervision of vice president of marketing operations Scott Berns, received management approval to create a mini IT organization for itself. While the reality of shadow IT was not the sole motivation for this move, he anticipated the growth of the shadow IT phenomenon as a validation that creating an independent marketing IT organization made sense. Every marketing application, cloud or on-premises, is now discussed, selected, provisioned, financed and managed by the marketing organization exclusively. “At the end of the day I have full autonomy to meet the needs of the business,” says Berns.
+DEBUG:root:获取的段落是:21.0
+Who better than marketing to understand its own future technology needs?
+DEBUG:root:获取的段落是:22.0
+CenturyLink business analysts and tech staff sit side by side with marketing staff. Application integration, security, data management and other support services are handled by the global IT organization that serves as a kind of backstop when needed. CenturyLink’s marketing department took on some of the characteristics of shadow IT to the extent that it can scour the landscape for marketing apps that offer new capabilities. The department can quickly discuss, test, and, with the technical guidance of analysts and IT staff, decide to deploy or pass. These are key process capabilities of a robust technology review process so important to marketing organizations constantly focused on customer satisfaction and growth.
+DEBUG:root:获取的段落是:23.0
+Embedded IT at the business unit level is becoming am increasingly common organizational arrangement. Gartner said that through 2017 up to 38 percent of IT purchases would be defined, controlled and managed by business executives. And seventy percent of respondents to the 2018 State of the CIO survey said that when lines of business or departments purchase technology products or services with their own budget, IT typically plays an advisory role or shares oversight. In only 16 percent of such projects does IT have complete oversight.
+DEBUG:root:获取的段落是:24.0
+“When you think about it, marketing behaves like a shadow IT department since we can test and deploy any cloud-based app we choose. The only difference is on key issues [data security, data management and application integration] we work closely with global IT,” says Berns.
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：【ToUpdate】对失控的影子IT的重新思考
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-20-32
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-20-32
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：但是，对于CIO和整个公司来说，失去对IT资产的完全控制有其好处。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-20-34
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-20-34
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：【ToUpdate】业务线用户通过围绕IT进行最终运行来提供技术。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-20-36
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-20-36
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：在官方渠道之外购买软件的员工可能会引起CIO的恐慌。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-20-42
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-20-42
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：但是，当数字化的尘埃落定时，一些IT组织及其服务的员工往往会从这些事件中脱颖而出，建立更牢固的关系并改善管理。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-20-45
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-20-45
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:english_text_ 不需要更新
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：当应用程序在官方渠道之外被提供时，公司的安全风险可能显著增加，应用程序集成机会被忽视，孤岛数据的分析机会被减少，公司无法利用大量使用云的定价优惠和运营支出(OPEX)带来的税收优惠，
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-21-03
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-21-03
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：因为这些款项不会计入公司财务支出当中。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-21-03
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-21-03
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：在这些错失的机会的背景下，IT部门可以采取多种应对方式。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-21-04
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-21-04
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：IT服务管理软件供应商Cherwell的首席产品官Steve Rodda说，“我发现在人们发现影子IT的存在时，预算会受到威胁，”他补充说，通常会让人们变得更加谨慎。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-21-07
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-21-07
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：Rodda亲眼目睹了一个消费电子产品制造商的客户建立了一个完整的业务部门，仅仅是为了在失控的云应用程序部署上大展拳脚。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-21-07
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-21-07
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：“我认为你将来会看到更多这样的类似的例子，”Rodda说。 
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-21-08
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-21-08
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:english_text_ 不需要更新
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：在组织安排之外，该公司构建了一个IT服务目录，员工可以通过该目录申请自己所需的应用程序。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-21-10
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-21-10
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：这并不是多年来被采纳的最具创新性的想法。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-21-10
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-21-10
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：虽然这并不是多年来被采纳的最具创新性的想法。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-21-11
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-21-11
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：然而，如果没有影子IT，它也永远不可能出现。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-21-12
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-21-12
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：【ToUpdate】服务目录试图在软件采购的控制力方面与更及时地满足一线员工需求之间取得平衡。 
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-21-15
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-21-15
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：影子IT反而在一些公司中提升了他们的角色。“
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-21-17
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-21-17
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：下面的例子展示了它可以给IT组织带来的积极成果，从小而有意义的成果到雄心勃勃的组织再造工作。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-21-18
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-21-18
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：对技术需求的响应带来的持续进步
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-21-19
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-21-19
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：对技术需求的响应带来持续进步
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-21-20
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-21-20
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：PPG是一家价值150亿美元的油漆和涂料产品制造商，在70个国家拥有业务，而影子IT的现实存在，已经迫使PPG实施更加集中更加严格的管理，以免其带来负面影响。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-21-31
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-21-31
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：PPG部署了两个监视工具，每个工具都提供了一个针对影子IT事件的独特视角。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-21-32
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-21-32
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：其中一个用来生成公司信用卡支出的报告和指示板。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-21-32
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-21-32
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:english_text_ 不需要更新
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：另一个是一个资源管理应用程序Planview，它提供了关于全球组织中所有IT人员参与影子IT项目的分析和见解。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-21-34
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-21-34
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：这就是为什么我们可以及时发现未经批准的技术的原因，“Caruso说。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-21-36
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-21-36
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：如果工作人员使用任何未被正式批准的应用程序进行文档处理，它就可以显示在这里。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-21-36
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-21-36
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：“我们对技术人员的警告是，如果你在从事任何涉及未经批准的技术项目，那么你将被开除。”
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-21-37
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-21-37
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：Caruso说，PPG已经制定了一个正式的流程，一旦影子IT被识别出来，就可以通过正式的渠道来对软件需求进行表达，包括为软件构建一个业务案例，并将申请者导向一个经过批准的供应商列表。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-21-39
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-21-39
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：Caruso说:“只有当我们的应用程序组合中存在缺陷时，影子IT的技术才允许被使用。”
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-21-40
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-21-40
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：对IT工作人员在Planview中标记的未经批准的技术工作进行调查后，将启动与从业务端引入影子IT所使用的相同的批准流程。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-21-46
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-21-46
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：“我们从人员，流程和技术角度解决了影子IT的三个关键问题，为我们的IT组织增加了额外的纪律，”Caruso说。 
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-21-47
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-21-47
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：“我们知道人们在做什么项目，用什么技术，这是我们以前从来没有这样做过的。”
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-21-47
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-21-47
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：Caruso补充说，对影子IT技术的掌握也可以增强IT组织本身。 
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-21-49
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-21-49
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：“当人们把钱花在影子IT上时，并不意味着PPG也应该把它的IT投资花在那里。”
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-21-49
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-21-49
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：如果你能把这些支出转化成更有战略性的东西，你可能会给公司带来更好的回报。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-21-50
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-21-50
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：IT丰富了自己的技能组合
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-21-50
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-21-50
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：Crunch Data的联合创始人兼首席顾问Eliot Arnold提供了一个影子IT给IT管理带来深刻改进的例子。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-21-51
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-21-51
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:english_text_ 不需要更新
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：在IT组织不知情的情况下，Arnold利用公司信用卡将公司的数据库复制并部署到他购买的服务器上，并将其安装在桌子下面。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-21-52
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-21-52
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：他购买并配置了一个可视化工具和软件，用于为深度分析准备数据。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-21-53
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-21-53
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：Arnold说，虽然这听起来像是一个最糟糕的例子，但以此为基础的深度营销的决策产生了4500万美元的营收。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-21-56
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-21-56
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：他的影子IT业务成为了turnkey服务点，在那里他为Arrow的其他成员提供了许多分析性的见解。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-21-59
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-21-59
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：“IT的第一反应就像我从暴民手中抢了钱一样，”Arnold说。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-22-00
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-22-00
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：但IT组织最终承认，Arnold的影子IT有其存在和继续升级的必要性，包括主数据管理和数据质量管理，这是一个将数据视为资产的公司的重要准则，但在Arrow之前，这几乎没有得到过任何关注
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-22-04
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-22-04
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：直到Arnold强调了这个问题。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-22-04
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-22-04
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：“影子IT可以成为真正的创新催化剂，”Arnold。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-22-04
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-22-04
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：一个独立的IT部门的出现
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-22-04
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-22-04
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：可以说，影子IT存在的对IT组织最深刻的影响是组织上的变革。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-22-05
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-22-05
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：大约七年前，电信运营商CenturyLink的营销部门在营销运营副总裁Scott Berns的监督下，为创建一个微型IT组织获得了管理部门的批准。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-22-07
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-22-07
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：虽然影子IT的现实并不是此举的唯一动机，但他预言影子IT现象的发展会证明创建独立营销的IT组织是有意义的。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-22-08
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-22-08
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：现在，每个营销应用程序，云或部署场所都由这个营销组织进行专门的讨论，选择，配置，资助和管理。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-22-09
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-22-09
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：Berns说:“最终，我拥有了充分的自主权来满足公司的需要。”
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-22-10
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-22-10
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：有谁比市场营销本身更了解自己未来的技术需求呢？
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-22-10
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-22-10
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：CenturyLink的业务分析师和技术人员与营销人员并排坐在了一起。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-22-11
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-22-11
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：应用程序集成，安全性，数据管理和其他支持服务由全球IT组织处理，在需要时可以作为一种支持。 
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-22-12
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-22-12
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：CenturyLink的营销部门采用了影子IT的一些特点，以便在市场上搜索提供新功能的营销应用。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-22-12
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-22-12
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：部门可以快速地讨论、测试，并在分析人员和IT人员的技术指导下决定部署或通过。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-22-13
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-22-13
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：这些是健壮的技术评审过程的关键流程，对于持续关注客户满意度和增长的营销组织来说非常重要。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-22-13
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-22-13
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：将IT嵌入到业务单元一级正成为越来越普遍的组织安排。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-22-14
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-22-14
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：Gartner表示，到2017年，多达38%的IT采购将由企业高管来进行定义、控制和管理。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-22-15
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-22-15
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：在2018年的CIO调查中，70%的受访者表示，当企业或部门用自己的预算购买技术产品或服务时，IT通常扮演咨询角色或起到监督的作用。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-22-16
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-22-16
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:english_text_ 不需要更新
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：当你想到它的时候，营销就像一个影子IT部门，因为我们可以测试和部署我们选择的任何基于云的应用。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-22-22
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-22-22
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：唯一的区别是在关键问题上(数据安全、数据管理和应用集成)，我们可以与全球的IT进行紧密的合作，”Berns说。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/en.2018-07-01-22-23
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-01/zh.2018-07-01-22-23
 DEBUG:root:save_into_doc :   
 DEBUG:root:save_into_doc :  order is： creDoc
 DEBUG:PIL.Image:Importing BlpImagePlugin
@@ -1219,6 +1956,474 @@ DEBUG:PIL.Image:Importing WmfImagePlugin
 DEBUG:PIL.Image:Importing XbmImagePlugin
 DEBUG:PIL.Image:Importing XpmImagePlugin
 DEBUG:PIL.Image:Importing XVThumbImagePlugin
+DEBUG:root:getArticleAddress : 
+DEBUG:root:getArticleAddress : Exception
+DEBUG:root:getArticleAddress : getArticleAddress is: none
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+DEBUG:root:getArticleAddress : 
+DEBUG:root:getArticleAddress : getArticleAddress is:/home/jty/下载/tmp/1/投稿msg/www.d1net.com/单号-201807-1/PLANTRONICS COMPLETES ACQUISITION OF POLYCOM
+DEBUG:root:getArticleAddress : getArticleAddress can be open /home/jty/下载/tmp/1/投稿msg/www.d1net.com/单号-201807-1/PLANTRONICS COMPLETES ACQUISITION OF POLYCOM
+DEBUG:root:获取的段落是:0.0
+PLANTRONICS COMPLETES ACQUISITION OF POLYCOM
+DEBUG:root:获取的段落是:1.0
+SANTA CRUZ, Calif., July 2, 2018 (GLOBE NEWSWIRE) -- Plantronics (NYSE: PLT) announced today that it has completed its acquisition of Polycom. The acquisition of Polycom will accelerate and expand Plantronics’ vision and enable it to deliver the broadest portfolio of end points in the Unified Communications and Collaboration (UCC) ecosystem.
+DEBUG:root:获取的段落是:2.0
+“We are pleased that Plantronics and Polycom are moving ahead as one company focused on putting people at the center of every collaboration experience,” stated Joe Burton, Plantronics’ President and Chief Executive Officer. “Plantronics now offers an unparalleled portfolio of integrated, intelligent solutions that spans headsets, software, desk phones, audio and video conferencing, and cloud services. This combined offering empowers people with the tools and flexibility they need to create the best experience when connecting to what is most important to them.”
+DEBUG:root:获取的段落是:3.0
+UCC and team collaboration technology are unlocking human potential at work and at home. With this acquisition, Plantronics is focused on voice, video, content, and cloud solutions for every place that technology touches people as they work, share, collaborate, and play. As trends in enterprise communications move toward open work spaces and flexible work arrangements, the ecosystem of platforms and devices continues to expand. With the addition of Polycom’s leading portfolio, Plantronics can offer a premium experience regardless of the UCC solutions selected by the customer.
+DEBUG:root:获取的段落是:4.0
+“The combination of Plantronics and Polycom comes at a critical time when customers are searching for high-quality audio and video solutions that are easy to buy, easy to use, and easy to manage,” said Ira M. Weinstein, Founder, Recon Research. “The company’s offerings work with on-premises, cloud (service provider) and hybrid platforms, giving customers the flexibility to choose their deployment method and cloud migration timing.  In addition, its global channel and technology partner ecosystem fosters both innovation and global reach. We’re expecting great things in the future from the new and expanded Plantronics.”
+DEBUG:root:获取的段落是:5.0
+Plantronics expects the acquisition to be immediately accretive to Non-GAAP earnings per share and believes it can achieve annual run-rate cost synergies of $75 million within 12 months. Non-GAAP earnings per share may exclude charges related to stock-based compensation, purchase accounting adjustments, acquisition and integration costs, restructuring and other related charges, litigation settlements, as well as the tax impact of these items and any discrete tax adjustments.
+DEBUG:root:获取的段落是:6.0
+Under terms of the acquisition agreement, Plantronics acquired Polycom at a $2.0 billion enterprise value with the total consideration consisting of approximately $1.638 billion in cash and 6.352 million Plantronics shares, resulting in Triangle Private Holdings II, LLC, which was Polycom’s sole shareholder, owning approximately 16.0% of Plantronics following the acquisition. Under the terms of the transaction, Frank Baker, Co-Founder and Managing Partner, Siris Capital Group (an affiliate of Triangle Private Holdings II, LLC), and Daniel Moloney, Executive Partner, Siris Capital Group, were appointed to Plantronics Board of Directors and have been nominated for election by Plantronics’ stockholders at the 2018 Annual Meeting of Stockholders.
+DEBUG:root:获取的段落是:7.0
+In conjunction with the closing of the acquisition, Plantronics today completed the financing of the transaction through a $1.275 billion term loan priced at LIBOR plus 250 bps, maturing in July 2025 (“Term Loan”). Proceeds of the Term Loan, along with cash on hand, were used to finance the acquisition as well as pay related fees and expenses. Additionally, Plantronics concurrently replaced its existing $100 million credit facility with Wells Fargo Bank, N.A. (“Wells Fargo”), with a new $100 million credit facility. Wells Fargo led the new Term Loan facility, as well as the replacement of the existing credit facility and will act as administrative agent for both the Term Loan and new credit facility. Foley & Lardner LLP acted as outside legal counsel for Plantronics. Further details regarding the terms of the Term Loan and new credit facility are outlined in Plantronics’ Current Report on Form 8-K to be filed today with the Securities and Exchange Commission.
+DEBUG:root:获取的段落是:8.0
+Q1 Fiscal Year 2019 Earnings Release Date
+DEBUG:root:获取的段落是:9.0
+Plantronics will release financial results for its fiscal Q1 2019 on August 7, 2018. Given that the acquisition closed after the quarter ended, Plantronics will issue financial results on a standalone basis for the quarter, but intends to issue guidance for the September quarter on a combined basis.
+DEBUG:root:获取的段落是:10.0
+Forward Looking Statements
+DEBUG:root:获取的段落是:11.0
+This press release, together with other statements and information publicly disseminated by Plantronics, contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended , including statements relating to: (i) potential accretion from the transaction; (ii) expected synergies; (iii) benefits to our business, partners and users that we expect from the acquisition; (iv) expectations regarding timing; and (v) expectations and targets regarding cash flow and debt repayments, in addition to other matters discussed in this press release that are not purely historical data. We do not assume any obligation to update or revise any such forward-looking statements, whether as the result of new developments or otherwise.
+DEBUG:root:获取的段落是:12.0
+Forward-looking statements involve risks and uncertainties that may cause actual results to differ materially from those contemplated by such statements. Among the factors that could cause actual results to differ materially from those contemplated are:
+DEBUG:root:获取的段落是:13.0
+• the ability to: (i) realize expected synergies or operating efficiencies within the expected time-frames or not at all and (ii) integrate Polycom's business in a timely and cost-efficient manner without adversely impacting operations, including new product launches;
+DEBUG:root:获取的段落是:13.5
+• the effect of the acquisition on (i) relationships with the combined company’s historical customers, suppliers and strategic partners and their operating results and businesses generally (including the diversion of management time on integration-related issues), (ii) competition and competitive strategies, including each party’s historical competitors, and (iii) the combined company’s ability to retain and hire key personnel;
+DEBUG:root:获取的段落是:14.0
+• the possibility that pending and unforeseen Polycom legal and regulatory enforcement may adversely impact the results of the combined company in amounts exceeding or otherwise not within the scope of Plantronics indemnification rights under the acquisition agreement;
+DEBUG:root:获取的段落是:14.5
+• the risks associated with the increased leverage undertaken by the company as a result of the acquisition;
+DEBUG:root:获取的段落是:15.0
+• the potential negative effects of the acquisition on the market price of the company’s common stock, particularly in light of the issuance of stock in the transaction;
+DEBUG:root:获取的段落是:15.5
+• risks relating to our financial reporting including those resulting from the adoption of new accounting pronouncements and associated system implementation in the context of the acquisition, our ability to forecast financial results of the combined company and the risk that reporting system integration could impact our ability to make timely and accurate SEC filings;
+DEBUG:root:获取的段落是:16.0
+• the potential impact of the acquisition on our future tax rate and payments based on the consolidation of the global group and our ability to quickly integrate foreign operations;
+DEBUG:root:获取的段落是:16.5
+• the challenges of integrating the supply chains of the two companies;
+DEBUG:root:获取的段落是:17.0
+• the potential that our due diligence did not uncover risks and potential liabilities associated with Polycom; 
+DEBUG:root:获取的段落是:17.5
+• our ability to realize and achieve positive financial results projected to arise in the Enterprise market from UCC adoption could be adversely affected by a variety of factors including the following: (i) as UCC become more widely adopted, the risk that competitors will offer solutions that will effectively commoditize our product and service offerings which, in turn, will reduce the sales prices for our products and services; (ii) our plans are dependent upon adoption of our UCC solutions by major platform providers and strategic partners such as Microsoft Corporation, Cisco Systems, Inc., Avaya, Inc., Alcatel-Lucent, and Huawei, and our influence over such providers with respect to the functionality of their platforms or their product offerings, their rate of deployment, and their willingness to integrate their platforms and product offerings with our solutions is limited; (iii) delays or limitations on our ability to timely introduce solutions that are cost effective, feature-rich, stable, and attractive to our customers within forecasted development budgets; (iv) our successful implementation and execution of new and different processes involving the design, development, and manufacturing of complex electronic systems composed of hardware, firmware, and software that works seamlessly and continuously in a wide variety of environments and with multiple devices; (v) failure of UCC solutions generally, or our solutions in particular, to be adopted with the breadth and speed we anticipate; (vi) our sales model and expertise must successfully evolve to support complex integration of hardware and software with UCC infrastructure consistent with changing customer purchasing expectations; (vii) as UCC becomes more widely adopted we anticipate that competition for market share will increase, particularly given that some competitors may have superior technical and economic resources;  (viii) sales cycles for more complex UCC deployments are longer as compared to our traditional Enterprise products; (ix) our inability to timely and cost-effectively adapt to changing business requirements may impact our profitability in this market and our overall margins; and (x) our failure to expand our technical support capabilities to support the complex and proprietary platforms in which our UCC products are and will be integrated;
+DEBUG:root:获取的段落是:18.0
+• volatility in prices from our suppliers, including our manufacturers located in China, which have in the past and could in the future negatively affect our profitability and/or market share;
+DEBUG:root:获取的段落是:18.5
+• fluctuations in foreign exchange rates;
+DEBUG:root:获取的段落是:19.0
+• the bankruptcy or financial weakness of distributors or key customers, or the bankruptcy of or reduction in capacity of our key suppliers;
+DEBUG:root:获取的段落是:19.5
+• seasonality in one or more of our product categories;
+DEBUG:root:获取的段落是:20.0
+• general global macroeconomic and geo-political conditions, including but not limited to, fluctuations in the stock markets generally; and
+DEBUG:root:获取的段落是:20.5
+• slowdowns or downturns in economic conditions generally and in the market for consumer electronics, including voice, video and content solutions.
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：【ToUpdate】PLANTRONICS（缤特力）完成了对POLYCOM（宝利通 ）的收购
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-09-56
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-09-56
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：加利福尼亚，圣克鲁斯，2018年7月2日(环球新闻)——Plantronics公司今天宣布它已经完成了对Polycom的收购。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-10-03
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-10-03
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：收购Polycom将加速和扩展Plantronics的愿景，使它能够在统一通信与协作(UCC)的生态系统中提供最广泛的终端组合。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-10-06
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-10-06
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：Plantronics总裁兼首席执行Joe Burton表示:“我们很高兴Plantronics和Polycom能够携手共同发展，成为一家专注于将人员置于每个协作体验的中心的公司。”
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-10-11
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-10-11
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：“Plantronics现在提供了一系列无与伦比的集成、智能解决方案，涵盖了耳机、软件、台式电话、音频和视频会议以及云服务。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-10-12
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-10-12
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：这些组合产品为人们提供了所需的工具和灵活性，使他们能够在与最重要的东西联系时拥有最佳体验。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-10-13
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-10-13
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：UCC和团队协作技术正在释放人们在工作和家庭中的潜能。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-10-14
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-10-14
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：这些组合产品为人们提供了所需的工具和灵活性，使他们能够在与最重要的东西联系时拥有最佳体验。”
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-10-14
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-10-14
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：通过这次收购，Plantronics将更加专注于语音、视频、内容和云解决方案，使我们的技术能够触及到人们工作、分享、合作和玩耍的每个地方。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-10-18
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-10-18
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：随着企业通信趋势朝着开放式的工作空间和灵活的工作安排发展，所需平台和设备的生态系统也随之不断扩展。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-10-19
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-10-19
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：通过拥有Polycom领先的产品组合，无论客户选择何种UCC解决方案，Plantronics都能提供卓越的体验。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-10-20
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-10-20
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：“当客户在寻找易于购买，易于使用且易于管理的高质量音频和视频解决方案时，Plantronics和Polycom的结合恰逢其时，”Recon Research的创始人Ira M. Weinstein说。 
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-10-21
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-10-21
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：”
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-10-22
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-10-22
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：“该公司的产品可以与内部系统，云和混合平台配合使用，使客户能够灵活地选择部署方法和云迁移时间。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-10-25
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-10-25
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：此外，它的全球渠道和技术合作伙伴生态系统也促进了创新和全球影响力。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-10-26
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-10-26
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：我们期待从这个新的和扩展的Plantronics中获得巨大的成就。”
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-10-27
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-10-27
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:english_text_ 不需要更新
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：非GAAP每股收益不包括与股票薪酬、采购会计调整、收购和整合成本、重组和其他相关费用、诉讼和解、以及这些项目的税务影响和任何离散的税收调整有关的费用。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-10-31
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-10-31
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：根据收购协议，Plantronics以20亿美元的估值收购了Polycom公司，总代价约为16.38亿美元现金和652万股的Plantronics公司股票，
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-10-35
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-10-35
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：这导致了作为Polycom公司唯一股东的三角形私有控股II有限责任公司(LLC)，在收购后拥有了大约16.0%的Plantronics股权。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-10-35
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-10-35
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：根据交易条款，Siris Capital Group的联合创始人兼合伙人Frank Baker和Siris Capital Group执行合伙人Daniel Moloney被任命为Plantronics董事会成员
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-10-37
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-10-37
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：并被Plantronics公司股东提名参加2018年股东年会。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-10-37
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-10-37
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：在收购交易完成的同时，Plantronics今天完成了这笔交易的融资。这笔交易的融资方式是一笔12.75亿美元的定期贷款，利率为伦敦银行间同业拆借利率(LIBOR) + 250个基点，于2025年7月到期(“定期贷款”)。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-10-40
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-10-40
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：这笔定期贷款以及库存现金将用于为此次收购提供资金以及支付相关费用和支出。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-10-41
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-10-41
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：此外，该公司还与新泽西州富国银行一起用新的1亿美元信贷额度替代了现有的1亿美元信贷额度。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-10-43
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-10-43
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：富国银行领导了新的定期贷款安排，并替换了现有的信贷安排，并将担任定期贷款和新信贷安排的行政代理。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-10-44
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-10-44
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：Foley＆Lardner LLP将担任Plantronics的外部法律顾问。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-10-44
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-10-44
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：有关定期贷款和新信贷安排条款的进一步细节，将在Plantronics今日提交给美国证券交易委员会的8-K表格的最新报告中列出。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-10-46
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-10-46
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：2019财年第一季度盈利发布日期
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-10-47
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-10-47
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：Plantronics将于2018年8月7日公布2019财年第一季度的财务报告。鉴于此次收购在季度结束后结束，Plantronics将在本季度单独发布财务业绩，并打算在9月1日发布业绩指引。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-12-02
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-12-02
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：并打算在9月份联合发布季度的财务业绩指引。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-12-08
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-12-08
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:english_text_ 不需要更新
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：前瞻声明
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-12-09
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-12-09
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：本新闻稿连同Plantronics公开传播的其他声明和信息，包含经修订的《1933年证券法》第27A条和经修订的《1934年证券交易法》第21E条所指的前瞻性声明，
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-12-11
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-12-11
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：包括以下几方面的陈述：（i）交易的潜在增值; 
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-12-11
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-12-11
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:english_text_ 不需要更新
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：（iii）我们期望从收购中获得的业务、合作伙伴和用户的利益;
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-12-12
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-12-12
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：（iv）预期时间;
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-12-13
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-12-13
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：（v）有关现金流和偿还债务的预期和目标，以及本新闻稿中讨论的非纯粹历史数据的其他事项。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-12-13
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-12-13
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:english_text_ 不需要更新
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：前瞻性陈述涉及风险和不确定性，这些风险和不确定性可能导致实际结果与这些报表所设想的结果有很大的不同。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-12-15
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-12-15
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:english_text_ 不需要更新
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：•实现下述的能力:(i)在预期的时间范围内实现预期的协同效应或运营效率;(ii)在不影响运营的情况下，及时和高效地整合Polycom的业务，包括新产品的发布;
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-12-17
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-12-17
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：•收购给以下几项带来的影响：(i)对合并公司的历史客户、供应商和战略合作伙伴的关系，以及它们的经营成果和业务的总体影响(包括整合相关问题的管理时间转移)、(ii)竞争和竞争战略
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-12-21
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-12-21
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:english_text_ 不需要更新
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：•在收购协议下的Plantronics赔偿权范围内，悬而未决且未预见到的Polycom法律和监管执法可能会对合并后公司的业绩造成的影响;
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-12-23
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-12-23
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：•由于收购所带来的杠杆率上升所带来的风险;
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-12-23
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-12-23
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：•收购对公司普通股市场价格的潜在负面影响，特别是考虑到交易中股票的发行情况;
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-12-24
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-12-24
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：•与我们财务报告相关的风险，包括在收购过程中采用新的会计公告和相关系统实施时所产生的风险、我们预测合并后公司财务结果的能力，
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-12-26
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-12-26
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：以及报告系统集成后可能影响我们及时、准确地提交SEC文件的风险;
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-12-26
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-12-26
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：•基于全球化整合以及我们快速整合海外业务的能力，收购对我们未来的税率和支付的潜在影响;
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-12-27
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-12-27
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:english_text_ 不需要更新
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:english_text_ 不需要更新
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：•我们的尽职调查未发现与Polycom相关的风险和潜在负债的可能性;
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-12-29
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-12-29
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：•我们能够实现并完成从UCC采用的企业市场中产生的积极的财务结果的能力可能会受到各种因素的不利影响，其中包括:(i)随着UCC的广泛采用，竞争对手将提供解决方案的风险。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-12-30
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-12-30
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：这将有效地使我们的产品和服务产品商品化，从而降低我们的产品和服务的销售价格;
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-12-31
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-12-31
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：（ii）我们的计划取决于主要平台提供商和战略合作伙伴(如微软、思科系统、Avaya、阿尔卡特-朗讯和华为)采用我们的UCC解决方案，
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-12-34
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-12-34
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：以及我们对这些提供商的平台或产品的功能、部署速度以及它们将平台和产品与我们的解决方案整合在一起的意愿;
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-12-34
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-12-34
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：（iii）在我们的开发预算内及时推出具有成本效益，功能丰富，稳定且对客户具有吸引力的解决方案的能力受到延迟或限制; 
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-12-36
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-12-36
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：（iv）我们能否成功地实施和执行新的和不同的过程，包括设计、开发和制造由硬件、固件和软件组成的复杂电子系统，这些硬件、固件和软件需要在各种各样的环境和多种设备中无缝连续地工作;
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-12-38
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-12-38
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：（v）UCC解决方案的失败，特别是我们的解决方案，没有被以我们预期的广度和速度被采用;
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-12-39
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-12-39
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：（vi）我们的销售模式和专业知识能否成功发展，以支持硬件和软件与UCC基础设施的复杂集成，以满足不断变化的客户购买期望; 
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-12-40
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-12-40
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:english_text_ 不需要更新
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:english_text_ 不需要更新
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：（ix）我们不能及时和有效地适应不断变化的业务需求，这可能会影响我们在这个市场的盈利能力和我们的整体利润率;
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-12-41
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-12-41
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：以及（x）我们未能扩展我们的技术支持能力，以支持我们的UCC产品所集成的复杂和专有平台;
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-12-42
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-12-42
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：•我们的供应商（包括位于中国的制造商）的价格波动，这在过去和未来都可能会对我们的盈利能力和市场份额产生负面影响;
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-12-44
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-12-44
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:english_text_ 不需要更新
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：•分销商或关键客户的破产或面临财务问题，或关键供应商的破产或产能下降;
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-12-45
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-12-45
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：•我们的一个或多个产品类别的季节性变化;
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-12-45
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-12-45
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：•全球宏观经济和地缘政治条件，包括但不限于股票市场的普遍波动;
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-12-46
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-12-46
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：•全球宏观经济和地缘政治条件，包括但不限于股票市场的普遍波动
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-12-46
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-12-46
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-12-46
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-12-46
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：•整体经济环境和消费电子市场（包括语音，视频和内容解决方案）的放缓或下滑。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/en.2018-07-03-12-47
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-03/zh.2018-07-03-12-47
+DEBUG:root:save_into_doc :   
+DEBUG:root:save_into_doc :  order is： creDoc
 DEBUG:PIL.Image:Importing BlpImagePlugin
 DEBUG:PIL.Image:Importing BmpImagePlugin
 DEBUG:PIL.Image:Importing BufrStubImagePlugin
@@ -1309,3 +2514,657 @@ DEBUG:PIL.Image:Importing WmfImagePlugin
 DEBUG:PIL.Image:Importing XbmImagePlugin
 DEBUG:PIL.Image:Importing XpmImagePlugin
 DEBUG:PIL.Image:Importing XVThumbImagePlugin
+DEBUG:root:getArticleAddress : 
+DEBUG:root:getArticleAddress : Exception
+DEBUG:root:getArticleAddress : getArticleAddress is: none
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+DEBUG:root:getArticleAddress : 
+DEBUG:root:getArticleAddress : getArticleAddress is:/home/jty/下载/tmp/1/投稿msg/www.d1net.com/单号-201807-2/Get ready for blockchain’s big business breakout
+DEBUG:root:getArticleAddress : getArticleAddress can be open /home/jty/下载/tmp/1/投稿msg/www.d1net.com/单号-201807-2/Get ready for blockchain’s big business breakout
+DEBUG:root:获取的段落是:0.0
+Get ready for blockchain’s big business breakout
+DEBUG:root:获取的段落是:1.0
+From financial services to agriculture and non-profits, several organizations are betting on the digital ledger technology as the future for facilitating and verifying business transactions.
+DEBUG:root:获取的段落是:2.0
+For all the hype, blockchain has yet to go mainstream in the enterprise. That may well change this year as the technology's reputation for trusted transactions continues to grow among IT leaders.
+DEBUG:root:获取的段落是:3.0
+Blockchain is a shared digital ledger for recording transactions. Each transaction among participants in a network is tucked into a record known as a block that is digitally signed to ensure its authenticity and create consensus about the state of transactions at any given second. What has CIOs excited about blockchain is its ability to scale across an enterprise, offering a network effect of digital trust.
+DEBUG:root:获取的段落是:4.0
+For example, every stakeholder in a blockchain-supported supply-chain network receives a copy of the existing authenticated ledger. If an event impacts the supply chain, every party can be assured that what the digital ledger says happened actually happened.
+DEBUG:root:获取的段落是:5.0
+Despite blockchain’s potential, only 1 percent of CIOs are adopting the technology within their organizations, and only 8 percent are in short-term planning or active experimentation with blockchain, according to Gartner's 2018 CIO Survey. Moreover, 77 percent of CIOs surveyed said their organization has no interest in the technology and/or no action planned to investigate or develop it. 
+DEBUG:root:获取的段落是:6.0
+"The reason you're not seeing more adoption is the classic risk-reward [scenario]," said Peter Nichol, managing director of digital strategy firm OROCA Innovations, on a panel at the MIT Sloan CIO Symposium last month. "As a CIO you have to pitch this to your board, you have to sell this to your team, and to your counterparts. And it's a tough business case because you have to not only explain what you're trying to do, but explain the technology."
+DEBUG:root:获取的段落是:7.0
+Even so, Gartner says CIOs would be wise to get on the blockchain bandwagon and begin testing the technology to see what’s possible and mull potential business cases.
+DEBUG:root:获取的段落是:8.0
+Here is a look at how some organizations are looking to leverage blockchain for business.
+DEBUG:root:获取的段落是:9.0
+Blockchain for ensuring human rights
+DEBUG:root:获取的段落是:10.0
+The United Nations is exploring two significant blockchain tracks: identity verification and supply chain trust, said Atefeh Riazi, the international organization’s CIO, during the MIT Sloan CIO Symposium panel.
+DEBUG:root:获取的段落是:11.0
+Riazi said that roughly 1.2 billion women worldwide don’t have an official identity, including a name or date of birth, which makes them easy targets for human trafficking. And in some countries, underage children are doing work they shouldn’t be doing as minors. In addition to upholding child labor laws, blockchain might also curb incidents in which minors accused of a crime are tried as adults because they cannot prove their age.
+DEBUG:root:获取的段落是:12.0
+Using a blockchain application to verify human identity, the UN could make it easier for authorities to identify people, preventing exploitation and crimes against women and children.
+DEBUG:root:获取的段落是:13.0
+Riazi is also exploring how the UN can use blockchain to prove the provenance of medicines it ships worldwide. This will help prove that people are getting the proper pharmaceuticals for their illnesses. “Supply chain is one of the key areas we look at when it comes to app of blockchain,” Riazi said.
+DEBUG:root:获取的段落是:14.0
+Ultimately, Riazi sees blockchain as one of the most disruptive technologies CIOs can tap. "This disruption is real, because why do we need Uber when we can do peer-to-peer [payments]? Why do we need a bank when I can transfer money directly?" Riazi says. "It is the future and it's here, and some companies and industries may not like it but hopefully they will reinvent themselves."
+DEBUG:root:获取的段落是:15.0
+Smart contracts for financial services
+DEBUG:root:获取的段落是:16.0
+At Boston Private, a wealth management firm for high net-worth clients, CDO and CIO Prasanna Gopalakrishnan is testing blockchain for smart contracts to make financial transactions more efficient — and trusted. The firm controls the blockchain node, dictating permissions for brokerage houses, clients and other parties in the system.
+DEBUG:root:获取的段落是:17.0
+Currently, currency exchanges handled by lenders and brokerage houses are rigorous and paper-intensive. A blockchain app that enables smart contracts can help alleviate some of these paper-trail burdens associated with credit-line approvals, ultimately quickening contract processing, Gopalakrishnan said at the MIT Sloan CIO Symposium.
+DEBUG:root:获取的段落是:18.0
+While such a scenario makes sense for financial services, Gopalakrishnan advised CIOs to offer the business a practical use case that adds value before putting it in front of their C-suite peers.
+DEBUG:root:获取的段落是:19.0
+“You have to get the buy-in from business partners, and clearly articulate and understand the business problems you're trying to solve, which will connect the dots to the business outcomes and the value it aims to bring,” Gopalakrishnan said. "Think from the shoes of everybody in the ecosystem and make sure there is value."
+DEBUG:root:获取的段落是:20.0
+A blockchain for tracking grain
+DEBUG:root:获取的段落是:21.0
+Of the many blockchain use cases OROCA’s Nichol tracks is how Australian companies CBH Group and AgriDigital are using blockchain for supply chain traceability in grain production.
+DEBUG:root:获取的段落是:22.0
+In the test, a farmer stored an oats delivery token to represent ownership over the grain. The farmer sold the digital title, including information about grain volume and other attributes, a week later via the blockchain. The pilot also tracked the provenance of organic oats from the farm through the supply chain.
+DEBUG:root:获取的段落是:23.0
+"What's cool about this is they had specific use case that allowed them to build capabilities to prove that it works," said Nichol, who is a former technology head for Connecticut’s healthcare insurance exchange.
+DEBUG:root:获取的段落是:24.0
+To that end, Nichol stressed the importance of defining a specific business case for blockchain; blockchain for blockchain’s sake isn’t of much value. "The internet doesn't solve anything; it doesn't tie your shoes," Nichol says. "Blockchain won't do a lot of things."
+DEBUG:root:获取的段落是:25.0
+Nichol recommends CIOs come up with an ontology of how blockchain might be used in, for example, registering assets and tracking their provenance.
+DEBUG:root:获取的段落是:26.0
+Blockchain for logistics
+DEBUG:root:获取的段落是:27.0
+United Parcel Service has a team dedicated to exploring blockchain's impact on chain of custody in the supply chain, says Linda Weakland, director of enterprise architecture and innovation at UPS. Weakland sees great potential for blockchain in automating the myriad manual processes that comprise customs brokerage. Such a system could help UPS "modernize the whole practice and clear goods much quicker than we do." Blockchain would also improve transaction accuracy and reduce costs for physical assets, such as shipping containers.
+DEBUG:root:获取的段落是:28.0
+But to unlock blockchain's potential, it must be adopted across the entire supply chain. To that end, UPS in November joined the Blockchain in Trucking Alliance (BiTA), which is developing blockchain standards for the freight industry. Weakland says such standards could help UPS and its partners share data across blockchains, which is currently difficult to do. "With BiTA we're going to be able to get more standards to make the blockchain more useful than it is today," Weakland says.
+DEBUG:root:获取的段落是:29.0
+UPS sees blockchain as an integral part of its evolving Smart Logistics Network, which also includes other emerging technologies such as internet of things, robotics, artificial intelligence and machine learning. UPS CIO Juan Perez, to whom Weakland reports, is applying these technologies across the rest of UPS business as part of the Advanced Technology Group he created shortly after his promotion in 2016. "[Perez] challenges us to be on the edge and really take a look at technology that will make a difference," Weakland says.
+DEBUG:root:获取的段落是:30.0
+Ripe for disruption
+DEBUG:root:获取的段落是:31.0
+While blockchain could revolutionize financial services in several ways, applications of digital ledger technologies get more narrow farther afield. This is especially true in the food industry, where Driscoll's is known for selling strawberries, blueberries, raspberries and blackberries in WalMart, Stop & Shop, Whole Foods and other supermarket retailers worldwide.
+DEBUG:root:获取的段落是:32.0
+Driscoll's, along with more than a dozen food producers, is working with IBM to use blockchain to help prove the provenance of tainted food, which Driscoll's CIO Tom Cullen says could eliminate finger-pointing. Because blockchain can chronicle every data point in a supply chain, it provides a virtual forensic scientist's paradise of information about the products it's tracking. "What we're interested in is that the origination of the fruit and any certification once it starts in the supply chain," Cullen says.
+DEBUG:root:获取的段落是:33.0
+Driscoll's currently uses Bluetooth-enabled GPS sensors to monitor the temperature of fruit in shipping coolers. So, for example, if a truck driver in Mexico inadvertently cooks the fruit because the temperature in his truck gets too warm, Driscoll's will know about it. But that won't help Driscoll's track a particular batch of crops in the event of a food-borne illness outbreak. Here blockchain could help. By logging barcodes from pallets and clamshell containers, a blockchain could be used to trace fruit to a specific harvest, Cullen says, enabling Driscoll’s to pinpoint exactly where the fruit originated.
+DEBUG:root:获取的段落是:34.0
+"It's immutable and can't be changed, so as you track through the supply chain you can trust the data," Cullen says. He adds that blockchain, along with machine learning and advanced analytics to help improve genetic marking, are cornerstone aspects of Driscoll's digital initiatives in 2018.
+DEBUG:root:获取的段落是:35.0
+Hedging blockchain bets
+DEBUG:root:获取的段落是:36.0
+Blockchain poses almost as many challenges as opportunities for financial service companies such as TD Ameritrade, where CIO Sankaran has allocated a dedicated team to explore how to use hyperledger technologies. Sankaran believes blockchain will shrink windows for asset clearance, automating in minutes or seconds what use to take days. Trading files across a multitude of partners will also become much crisper and cleaner, reducing manual, paper-based processes.
+DEBUG:root:获取的段落是:37.0
+TD Ameritrade's first main test case is facilitating money transfers between its brokerage service and its TD Bank affiliate in near real time. "It's a template to continue to work with other institutions to do money movement and account setup much more quickly," Sankaran says. Other potential enterprise uses for blockchain include information sharing between clients; proxy voting, which typically requires a lot of paper; and replacing credit cards in micropayments. Ultimately, financial settlement is going to be the most interesting use case over time, Sankaran says, reducing time and transaction fees that have bedeviled the industry.
+DEBUG:root:获取的段落是:38.0
+The online broker is testing several hyperledger technologies, including Ethereum, R3 Corda and JP Morgan's Quorum. "It really has to be an enterprise-grade platform to manage security, privileges, and it must scale and perform well," Sankaran says.
+DEBUG:root:获取的段落是:39.0
+Even so, Sankaran must hedge his bets against the uncertainty around hyperledger technologies, which have a Wild West aura akin to the early days of emerging technology distributions such as Linux, he says. "The problem is picking an underlying platform knowing that you may need to throw it out because it doesn't provide the most value," Sankaran says, adding that he is closely watching what vendors TD Ameritrade aligns with are doing in the space.
+DEBUG:root:获取的段落是:40.0
+Sankaran anticipates significant consolidation, with larger players acquiring blockchain distributions, forcing tidal shifts in the industry. And he says he's proceeding with full awareness that "we may have to change horses at some point in time."
+DEBUG:root:获取的段落是:41.0
+"I think in 2018 and 2019, blockchain will cross the chasm and move from experimental use case to mainstream in financial services and other industries,” Sankaran says. "Blockchain is one of those things where it's going to be more of a competitive advantage over time.”
+DEBUG:root:获取的段落是:42.0
+Don’t sleep on blockchain
+DEBUG:root:获取的段落是:43.0
+While it is still early, CIOs who ignore blockchain do so at the peril of digital disruption.
+DEBUG:root:获取的段落是:44.0
+“It’s important to start now, otherwise you're going to get left behind if you don't,” Gopalakrishnan said. “We'd better get on the bandwagon, embrace it and disrupt with it."
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：为区块链的重大商业突破做好准备
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-18-46
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-18-46
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：从金融行业到农业和非营利组织，一些组织押注的数字分类账技术将成为促进和核实商业交易的未来。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-18-49
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-18-49
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：尽管经过了大量的宣传，区块链至今没有成为企业的主流。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-18-50
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-18-50
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：尽管经过了大量的宣传，区块链至今依然没有成为企业的主流。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-18-50
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-18-50
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：然而，随着IT行业领袖对可信交易的信赖度持续上升，这一状况很可能会在今年发生改变。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-18-51
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-18-51
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：【ToUpdate】区块链是一个用于记录交易的共享数字分类帐。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-18-52
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-18-52
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：网络中任何参与者之间的每一笔交易都被塞进了一个被称为“块”的记录中，该记录经过数字签名以确保其真实性并需要在任何给定的秒钟内建立关于交易状态的共识。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-18-54
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-18-54
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：CIO们对区块链的兴奋之处在于它能够跨企业提供数字化、可信任的网络效应。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-18-56
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-18-56
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：例如，支持区块链的供应链网络中的每个利益相关者都会收到现有一个现有的已验证分类帐的副本
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-18-57
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-18-57
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：如果一个事件影响供应链，那么每个参与方都可以确认数字分类账所说的实际发生的事情。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-18-58
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-18-58
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：根据Gartner的2018年CIO调查，尽管区块链的潜力巨大，但只有1%的CIO在他们的组织中采用了这项技术，只有8%的CIO有在短期计划或积极尝试区块链。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-19-01
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-19-01
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：此外，77%的受访CIO表示，他们的组织对这项技术没有兴趣，也没有计划进行调查或开发。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-19-02
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-19-02
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：“这项技术之所以遇冷的原因在于回报的预期不明，”
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-19-17
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-19-17
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：数字战略公司OROCA Innovations的董事总经理Peter Nichol在上个月的麻省理工学院斯隆CIO研讨会上的一个小组中说。 
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-19-17
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-19-17
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：“作为一个CIO，你必须向你的董事会推销这一点，也必须向你的团队和你的同行推销这一点。”这是一个艰难的商业案例因为你不仅要解释你要做什么，还要解释
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-19-20
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-19-20
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：这个新技术本身。”
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-19-20
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-19-20
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：这个新技术本身
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-19-21
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-19-21
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：。”
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-19-21
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-19-21
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：即便如此，Gartner表示，CIO们还是应该加入区块链的潮流，开始测试这项技术，看看有什么可能，并仔细考虑潜在的商业案例。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-19-21
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-19-21
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：下面我们来看看一些组织是如何利用区块链进行商业活动的。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-19-21
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-19-21
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:english_text_ 不需要更新
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：国际组织的CIO Atefeh Riazi在麻省理工学院斯隆商学院的研讨会上表示，联合国正在探索区块链的两个重要用途:身份验证和供应链信任。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-19-26
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-19-26
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：【ToUpdate】用于保障人权的区块链
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-19-27
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-19-27
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：Riazi说，全世界大约有12亿女性没有官方身份，包括姓名或出生日期，这使她们成为人口贩运的目标。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-19-27
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-19-27
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：Riazi说，全世界大约有12亿女性没有官方身份，包括姓名或出生日期，这使得她们很容易成为人口贩卖的目标。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-19-27
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-19-27
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：在一些国家，未成年人正在做着他们不应该做的工作。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-19-28
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-19-28
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：除了支持儿童劳动法外，区块链还可以遏制被指控犯罪的未成年人作为成年人受到审判的事件，因为他们无法证明自己的年龄。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-19-28
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-19-28
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：使用区块链应用程序来验证人类身份，联合国可以使当局更容易识别人员，防止对妇女和儿童的剥削和犯罪。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-19-29
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-19-29
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:english_text_ 不需要更新
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：这将有助于证明人们正在为他们的疾病获得合适的药物。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-19-30
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-19-30
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:english_text_ 不需要更新
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：最后，Riazi认为区块链是CIO可以利用的最具破坏性的技术之一。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-19-31
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-19-31
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：“这种破坏是真实的，因为当我们可以做点对点支付时，为什么还需要优步呢?当我可以直接转账的时候，为什么我们还需要银行呢?”
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-19-32
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-19-32
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：Riazi说。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-19-32
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-19-32
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：“这就是未来，虽然一些公司和行业可能不喜欢它，但希望它们能够重塑自我。”
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-19-33
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-19-33
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:english_text_ 不需要更新
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：在为高净值客户服务的财富管理公司Boston Private, 其CDO和CIO Prasanna Gopalakrishnan正在测试区块链的智能合约，以提高金融交易的效率和可信度。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-19-35
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-19-35
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：该公司通过控制区块链节点，为经纪公司、客户和系统中的其他各方指定权限。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-19-37
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-19-37
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：目前，银行和经纪公司处理的货币兑换都是严格监管的和纸张密集的。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-19-38
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-19-38
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：Gopalakrishnan在麻省理工学院斯隆管理委员会研讨会上表示，支持智能合约的区块链应用程序可以帮助减轻与信用额度审批相关的一些书面程序，最终加快合同处理速度。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-19-39
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-19-39
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：虽然这样的场景对金融服务来说是有意义的，但Gopalakrishnan依然建议CIO们在把新业务放在他们的高管面前之前，先为业务提供一个有价值的实用用例。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-19-40
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-19-40
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：Gopalakrishnan说:“你必须从商业伙伴那里得到支持，并且清楚地表达和解释你试图解决的商业问题，这将把关键点与业务成果及其带来的价值联系起来。” 
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-19-41
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-19-41
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：“从生态系统中的每个人的角度分别思考，确保你的建议是有价值的。”
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-19-42
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-19-42
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：【ToUpdate】用于跟踪粮食的区块链
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-19-43
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-19-43
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：【ToUpdate】在许多区块链用例中，OROCA的Nichol跟踪是一个关于澳大利亚CBH集团和AgriDigital公司如何在粮食生产中使用区块链进行供应链追溯的实例。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-19-46
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-19-46
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:english_text_ 不需要更新
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：一周后，这位农民通过区块链出售了这个数字标的，其中包括有关粮食产量和其他属性的信息。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-19-49
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-19-49
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:english_text_ 不需要更新
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：“这很酷，因为他们有特定的用例，允许他们构建功能来证明它是有效的，”Nichol说，他曾是康涅狄格州医疗保险交易所的技术主管。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-19-50
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-19-50
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:english_text_ 不需要更新
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：区块链本身没有多大价值。 
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-19-50
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-19-50
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：Nichol说：“互联网并没有解决任何问题;它不会帮你系鞋带。” 
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-19-51
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-19-51
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：“区块链不是万能的。”
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-19-51
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-19-51
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：Nichol建议CIO提出如何使用区块链的实例，例如注册资产和跟踪来源。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-19-52
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-19-52
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:english_text_ 不需要更新
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：联合包裹服务公司的企业架构和创新主管Linda Weakland表示，联合包裹服务公司有一个专门研究区块链对供应链托管链影响的团队。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-19-54
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-19-54
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：Weakland认为区块链在自动化，包括海关经纪在内的无数手工流程方面具有巨大潜力。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-19-54
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-19-54
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：这样的系统可以帮助UPS“实践现代化，并更快地清理货物”。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-19-54
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-19-54
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:english_text_ 不需要更新
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：但要释放区块链的潜力，必须在整个供应链中采用它。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-19-55
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-19-55
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：为此，UPS在11月加入了区块链货运联盟(BiTA)，该联盟正在为货运行业开发区块链标准。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-19-55
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-19-55
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:english_text_ 不需要更新
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：“有了BiTA，我们将能够获得更多的标准，使区块链变的更有用，”Weakland说。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-19-56
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-19-56
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：UPS认为区块链是其智能物流网络发展的重要组成部分，其中还包括其他新兴技术，如物联网、机器人技术、人工智能和机器学习。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-19-56
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-19-56
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：“就让我们拭目以待，看看这项技术能带来什么改变。”Weakland说。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-20-00
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-20-00
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：彻底的变革
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-20-01
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-20-01
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：虽然区块链可以通过多种方式彻底改变金融服务，但数字分类账技术的应用范围却越来越窄。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-20-03
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-20-03
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：尤其是在食品行业，Driscoll以在WalMart，Stop＆Shop，Whole Foods和全球其他超市零售商销售草莓，蓝莓，覆盆子和黑莓而闻名。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-20-04
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-20-04
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:english_text_ 不需要更新
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:english_text_ 不需要更新
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：“我们感兴趣的是水果的起源和任何在供应链上进行的认证，”Cullen说。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-20-05
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-20-05
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：Driscoll公司目前使用蓝牙GPS传感器来监控运输冷却器中水果的温度。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-20-06
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-20-06
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：举个例子，如果墨西哥的卡车司机因为他卡车里的温度太热了而不小心把水果煮熟了，Driscoll就会知道。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-20-07
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-20-07
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：但这并不能帮助Driscoll跟踪在食源性疾病爆发时的某一批作物。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-20-07
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-20-07
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：而区块链可以提供帮助。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-20-08
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-20-08
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：Cullen说，通过从托盘和蛤壳容器中记录的条形码，区块链可以用来追踪特定的水果，这样Driscoll就可以精确地找出水果的来源。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-20-09
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-20-09
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：“这是不可改变的，因为无法改变，所以当你追踪供应链时，你可以信任这些数据，”Cullen说。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-20-10
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-20-10
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：他补充说，区块链，机器学习和高级分析有助于改善基因标记，这些是Driscoll 2018年数字计划的基石。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-20-11
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-20-11
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：【ToUpdate】对冲区块链的风险
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-20-11
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-20-11
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：与此同时，区块链给TD Ameritrade等金融服务公司带来了几乎同样多的挑战，在那里，CIO Sankaran已经分配了一个专门的团队来研究如何使用超级账本技术。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-20-13
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-20-13
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：Sankaran相信区块链将会缩小资产清理的窗口，在几分钟或几秒钟内自动完成之前需要几天的工作。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-20-13
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-20-13
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：在众多合作伙伴之间交换文件也将变得更加清晰和简明，减少了基于纸张的手动流程。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-20-13
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-20-13
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：TD Ameritrade的第一个主要测试的案例是在几乎实时的情况下，促进其经纪服务与TD Bank附属机构之间的资金转移。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-20-14
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-20-14
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：Sankaran说:“这是一个模板，可以继续与其他机构合作，更快地进行资金流动和账户设置。”
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-20-14
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-20-14
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:english_text_ 不需要更新
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：通常需要大量的纸张的代理投票;
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-20-15
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-20-15
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：用小额支付取代信用卡。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-20-15
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-20-15
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：在小额支付上取代信用卡。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-20-15
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-20-15
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：Sankaran说，最终，财务结算将成为最有趣的用例，因为它可以减少困扰该行业的时间成本和交易费用。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-20-18
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-20-18
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：这家在线经纪公司正在测试数种超级账本技术，包括以太坊，R3 Corda和摩根大通的Quorum。 
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-20-19
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-20-19
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：“它必须是一个企业级平台才能管理安全性及特权，它必须能够扩展并表现良好，”Sankaran说。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-20-20
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-20-20
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：即便如此，Sankaran仍必须对冲他对hyperledger技术的不确定性的押注风险。他说，这些技术具有类似于Linux等新兴技术发行的早期的狂野西部光环，他说。 
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-20-22
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-20-22
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：“问题在于在挑选一个潜在的平台之后，你也知道你可能会需要抛弃它，因为它没有提供最大的价值，”Sankaran补充说他正在密切关注TD Ameritrade与之合作的供应商在这个领域做了些什么。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-20-24
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-20-24
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：Sankaran预计会出现大规模的整合，大型企业将获得区块链的垄断，从而迫使行业发生潮汐变化。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-20-26
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-20-26
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：他说他完全意识到“我们可能不得不在某个时候改变策略。”
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-20-27
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-20-27
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：随着时间的推移，区块链将会成为企业的竞争优势之一。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-20-29
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-20-29
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：“我认为在2018年和2019年，区块链将跨越鸿沟，从实验用例转变为金融服务和其他行业的主流，”Sankaran说。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-20-29
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-20-29
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：不要对区块链熟视无睹
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-20-29
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-20-29
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：虽然现在还处于早期阶段，但忽视区块链的CIO会在数字化浪潮中被淘汰。
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-20-30
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-20-30
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：Gopalakrishnan说:“现在就开始很重要，否则你就会被甩在后面。”
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-20-30
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-20-30
+DEBUG:root:post_save_one_str : need to get_one_word:
+DEBUG:root:tranlate_text_  更新为：“我们最好现在就跟上潮流，拥抱它，影响它。”
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05
+DEBUG:root:toSaveTranlateArticle:
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/en.2018-07-05-20-31
+DEBUG:root:/home/jty/git/mysiteForTranslte/src/2018-07-05/zh.2018-07-05-20-31
+DEBUG:root:save_into_doc :   
+DEBUG:root:save_into_doc :  order is： creDoc

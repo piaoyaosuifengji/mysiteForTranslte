@@ -9,8 +9,13 @@ import logging
 import urllib.request      
 from pyForTranslate.HandleJs import Py4Js 
 # from HandleJs import Py4Js 
-#获取系统时间，如果超过固定时间就退出
 
+
+
+
+'''
+
+#获取系统时间，如果超过固定时间就退出
 # timeStr=time.strftime('%Y-%m',time.localtime(time.time()))
 # print(timeStr)
 ys=time.strftime('%Y',time.localtime(time.time()))
@@ -31,14 +36,7 @@ else:
 
 # main_win()
 
-
-
-# 需要建立两种进程
-#     1：主进程，一个，负责字典数据读取和md5计算结果的最终确认
-#     2：md5计算进程，多个
-
-
-
+'''
 
 def printTranslate():
     print ("printTranslate")

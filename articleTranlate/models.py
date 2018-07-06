@@ -16,7 +16,7 @@ class translte_str(models.Model):
     tranlate_text = models.CharField(max_length=5500)
     tranlate_text_wy = models.CharField(max_length=5500, default='nulll')
 
-    # id =  models.IntegerField(default=0)
+    # id =  models.IntegerField(default=0)#当断失断
     paragraph_id = models.IntegerField(default=0)
     # def __str__(self):
     #         return self.choice_text

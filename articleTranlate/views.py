@@ -11,12 +11,11 @@ from django.http import HttpResponseRedirect, HttpResponse
 from django.http import JsonResponse
 # Create your views here.
 from django.views import generic
-from pyForTranslate.googleAPIForTranslate import printTranslate, googleAPIForTranslate, splitArticle 
+from pyForTranslate.googleAPIForTranslate import googleAPIForTranslate, splitArticle 
 from pyForTranslate.youdaofanyi import youdaofanyi,youdaofanyi_api
 from .myfileManage import toSaveTranlateArticle, checkFoldToSaveTranlate
 from .operatingdocx import CreTranslationDocx 
 
-# from HandleJs import Py4Js
 from pyForTranslate.HandleJs import Py4Js
 import datetime
 # from django.db import models

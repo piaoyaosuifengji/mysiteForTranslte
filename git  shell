@@ -3,7 +3,7 @@ python3 manage.py runserver
 
 
 提交更新：
- git commit -a -m "20180620： add file 2 "
+ git commit -a -m "20180620： add file 3 "
 git push origin master
 git push origin  ver1:ver1
 git push origin  ver2:ver2
@@ -86,6 +86,7 @@ git config --global user.name "piaoyaosuifengji"
 
 一开始用：下载项目
 git clone https://github.com/piaoyaosuifengji/NERO2.git
+git clone https://github.com/piaoyaosuifengji/mysiteForTranslte.git
 
 查看clone 地址：git remote -v
 移除https的方式，换成 ssh方式
