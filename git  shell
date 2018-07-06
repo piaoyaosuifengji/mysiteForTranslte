@@ -3,7 +3,7 @@ python3 manage.py runserver
 
 
 提交更新：
- git commit -a -m "20180706： del some file "
+ git commit -a -m "20180706： del some file1 "
 git push origin master
 git push origin  ver1:ver1
 git push origin  ver2:ver2
